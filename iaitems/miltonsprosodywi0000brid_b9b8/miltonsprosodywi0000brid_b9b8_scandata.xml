@@ -1,0 +1,3287 @@
+<?xml version="1.0"?>
+<book>
+    <pageData>
+        <page leafNum="0">
+            <handSide>LEFT</handSide>
+            <rotateDegree>-90</rotateDegree>
+            <skewActive>false</skewActive>
+            <skewAngle>0</skewAngle>
+            <skewAngleDetect>0</skewAngleDetect>
+            <skewScore>0</skewScore>
+            <origFileName>0000.jpg</origFileName>
+            
+            
+            
+            <origWidth>4000</origWidth>
+            <origHeight>6000</origHeight>
+            <bookStart>true</bookStart>
+            <pageType>Color Card</pageType>
+            <addToAccessFormats>false</addToAccessFormats>
+            <cropBox>
+                <x>100</x>
+                <y>100</y>
+                <w>600</w>
+                <h>600</h>
+            </cropBox>
+        </page>
+        <page leafNum="1">
+            <handSide>RIGHT</handSide>
+            <rotateDegree>90</rotateDegree>
+            <skewActive>false</skewActive>
+            <skewAngle>0</skewAngle>
+            <skewAngleDetect>0</skewAngleDetect>
+            <skewScore>0</skewScore>
+            <origFileName>0001.jpg</origFileName>
+            
+            
+            
+            <origWidth>4000</origWidth>
+            <origHeight>6000</origHeight>
+            <pageType>Cover</pageType>
+            <addToAccessFormats>true</addToAccessFormats>
+            <cropBox>
+                <x>402</x>
+                <y>1901</y>
+                <w>1932</w>
+                <h>3085</h>
+            </cropBox>
+        </page>
+        <page leafNum="2">
+            <handSide>LEFT</handSide>
+            <rotateDegree>-90</rotateDegree>
+            <skewActive>true</skewActive>
+            <skewAngle>0.7</skewAngle>
+            <skewAngleDetect>0</skewAngleDetect>
+            <skewScore>0</skewScore>
+            <origFileName>0002.jpg</origFileName>
+            
+            
+            
+            <origWidth>4000</origWidth>
+            <origHeight>6000</origHeight>
+            <pageType>Normal</pageType>
+            <addToAccessFormats>true</addToAccessFormats>
+            <cropBox>
+                <x>1819</x>
+                <y>1877</y>
+                <w>1795</w>
+                <h>3060</h>
+            </cropBox>
+        </page>
+        <page leafNum="3">
+            <handSide>RIGHT</handSide>
+            <rotateDegree>90</rotateDegree>
+            <skewActive>true</skewActive>
+            <skewAngle>0</skewAngle>
+            <skewAngleDetect>0</skewAngleDetect>
+            <skewScore>0</skewScore>
+            <origFileName>0003.jpg</origFileName>
+            
+            
+            
+            <origWidth>4000</origWidth>
+            <origHeight>6000</origHeight>
+            <pageType>Normal</pageType>
+            <addToAccessFormats>true</addToAccessFormats>
+            <cropBox>
+                <x>338</x>
+                <y>1909</y>
+                <w>1795</w>
+                <h>3060</h>
+            </cropBox>
+        </page>
+        <page leafNum="4">
+            <handSide>LEFT</handSide>
+            <rotateDegree>-90</rotateDegree>
+            <skewActive>true</skewActive>
+            <skewAngle>0.7</skewAngle>
+            <skewAngleDetect>0</skewAngleDetect>
+            <skewScore>0</skewScore>
+            <origFileName>0004.jpg</origFileName>
+            
+            
+            
+            <origWidth>4000</origWidth>
+            <origHeight>6000</origHeight>
+            <pageType>Normal</pageType>
+            <addToAccessFormats>true</addToAccessFormats>
+            <cropBox>
+                <x>1819</x>
+                <y>1877</y>
+                <w>1795</w>
+                <h>3060</h>
+            </cropBox>
+        </page>
+        <page leafNum="5">
+            <handSide>RIGHT</handSide>
+            <rotateDegree>90</rotateDegree>
+            <skewActive>true</skewActive>
+            <skewAngle>0</skewAngle>
+            <skewAngleDetect>0</skewAngleDetect>
+            <skewScore>0</skewScore>
+            <origFileName>0005.jpg</origFileName>
+            
+            
+            
+            <origWidth>4000</origWidth>
+            <origHeight>6000</origHeight>
+            <pageType>Normal</pageType>
+            <addToAccessFormats>true</addToAccessFormats>
+            <cropBox>
+                <x>338</x>
+                <y>1909</y>
+                <w>1795</w>
+                <h>3060</h>
+            </cropBox>
+        </page>
+        <page leafNum="6">
+            <handSide>LEFT</handSide>
+            <rotateDegree>-90</rotateDegree>
+            <skewActive>true</skewActive>
+            <skewAngle>0.7</skewAngle>
+            <skewAngleDetect>0</skewAngleDetect>
+            <skewScore>0</skewScore>
+            <origFileName>0006.jpg</origFileName>
+            
+            
+            
+            <origWidth>4000</origWidth>
+            <origHeight>6000</origHeight>
+            <pageType>Normal</pageType>
+            <addToAccessFormats>true</addToAccessFormats>
+            <cropBox>
+                <x>1819</x>
+                <y>1877</y>
+                <w>1795</w>
+                <h>3060</h>
+            </cropBox>
+        </page>
+        <page leafNum="7">
+            <handSide>RIGHT</handSide>
+            <rotateDegree>90</rotateDegree>
+            <skewActive>true</skewActive>
+            <skewAngle>0</skewAngle>
+            <skewAngleDetect>0</skewAngleDetect>
+            <skewScore>0</skewScore>
+            <origFileName>0007.jpg</origFileName>
+            
+            
+            
+            <origWidth>4000</origWidth>
+            <origHeight>6000</origHeight>
+            <pageType>Normal</pageType>
+            <addToAccessFormats>true</addToAccessFormats>
+            <cropBox>
+                <x>338</x>
+                <y>1909</y>
+                <w>1795</w>
+                <h>3060</h>
+            </cropBox>
+        </page>
+        <page leafNum="8">
+            <handSide>LEFT</handSide>
+            <rotateDegree>-90</rotateDegree>
+            <skewActive>true</skewActive>
+            <skewAngle>0.7</skewAngle>
+            <skewAngleDetect>0</skewAngleDetect>
+            <skewScore>0</skewScore>
+            <origFileName>0008.jpg</origFileName>
+            
+            
+            
+            <origWidth>4000</origWidth>
+            <origHeight>6000</origHeight>
+            <pageType>Normal</pageType>
+            <addToAccessFormats>true</addToAccessFormats>
+            <cropBox>
+                <x>1819</x>
+                <y>1877</y>
+                <w>1795</w>
+                <h>3060</h>
+            </cropBox>
+        </page>
+        <page leafNum="9">
+            <handSide>RIGHT</handSide>
+            <rotateDegree>90</rotateDegree>
+            <skewActive>true</skewActive>
+            <skewAngle>0</skewAngle>
+            <skewAngleDetect>0</skewAngleDetect>
+            <skewScore>0</skewScore>
+            <origFileName>0009.jpg</origFileName>
+            
+            
+            
+            <origWidth>4000</origWidth>
+            <origHeight>6000</origHeight>
+            <pageType>Normal</pageType>
+            <addToAccessFormats>true</addToAccessFormats>
+            <cropBox>
+                <x>338</x>
+                <y>1909</y>
+                <w>1795</w>
+                <h>3060</h>
+            </cropBox>
+        </page>
+        <page leafNum="10">
+            <handSide>LEFT</handSide>
+            <rotateDegree>-90</rotateDegree>
+            <skewActive>true</skewActive>
+            <skewAngle>0.7</skewAngle>
+            <skewAngleDetect>0</skewAngleDetect>
+            <skewScore>0</skewScore>
+            <origFileName>0010.jpg</origFileName>
+            
+            
+            
+            <origWidth>4000</origWidth>
+            <origHeight>6000</origHeight>
+            <pageType>Normal</pageType>
+            <addToAccessFormats>true</addToAccessFormats>
+            <cropBox>
+                <x>1835</x>
+                <y>1852</y>
+                <w>1795</w>
+                <h>3060</h>
+            </cropBox>
+        </page>
+        <page leafNum="11">
+            <handSide>RIGHT</handSide>
+            <rotateDegree>90</rotateDegree>
+            <skewActive>true</skewActive>
+            <skewAngle>0</skewAngle>
+            <skewAngleDetect>0</skewAngleDetect>
+            <skewScore>0</skewScore>
+            <origFileName>0011.jpg</origFileName>
+            
+            
+            
+            <origWidth>4000</origWidth>
+            <origHeight>6000</origHeight>
+            <pageType>Normal</pageType>
+            <addToAccessFormats>true</addToAccessFormats>
+            <cropBox>
+                <x>338</x>
+                <y>1909</y>
+                <w>1795</w>
+                <h>3060</h>
+            </cropBox>
+        </page>
+        <page leafNum="12">
+            <handSide>LEFT</handSide>
+            <rotateDegree>-90</rotateDegree>
+            <skewActive>true</skewActive>
+            <skewAngle>1.2</skewAngle>
+            <skewAngleDetect>0</skewAngleDetect>
+            <skewScore>0</skewScore>
+            <origFileName>0012.jpg</origFileName>
+            
+            
+            
+            <origWidth>4000</origWidth>
+            <origHeight>6000</origHeight>
+            <pageType>Normal</pageType>
+            <addToAccessFormats>true</addToAccessFormats>
+            <cropBox>
+                <x>1859</x>
+                <y>1868</y>
+                <w>1795</w>
+                <h>3060</h>
+            </cropBox>
+        </page>
+        <page leafNum="13">
+            <handSide>RIGHT</handSide>
+            <rotateDegree>90</rotateDegree>
+            <skewActive>true</skewActive>
+            <skewAngle>0</skewAngle>
+            <skewAngleDetect>0</skewAngleDetect>
+            <skewScore>0</skewScore>
+            <origFileName>0013.jpg</origFileName>
+            
+            
+            
+            <origWidth>4000</origWidth>
+            <origHeight>6000</origHeight>
+            <pageType>Normal</pageType>
+            <addToAccessFormats>true</addToAccessFormats>
+            <cropBox>
+                <x>322</x>
+                <y>1901</y>
+                <w>1795</w>
+                <h>3060</h>
+            </cropBox>
+        </page>
+        <page leafNum="14">
+            <handSide>LEFT</handSide>
+            <rotateDegree>-90</rotateDegree>
+            <skewActive>true</skewActive>
+            <skewAngle>1.2</skewAngle>
+            <skewAngleDetect>0</skewAngleDetect>
+            <skewScore>0</skewScore>
+            <origFileName>0014.jpg</origFileName>
+            
+            
+            
+            <origWidth>4000</origWidth>
+            <origHeight>6000</origHeight>
+            <pageType>Normal</pageType>
+            <addToAccessFormats>true</addToAccessFormats>
+            <cropBox>
+                <x>1859</x>
+                <y>1868</y>
+                <w>1795</w>
+                <h>3060</h>
+            </cropBox>
+        </page>
+        <page leafNum="15">
+            <handSide>RIGHT</handSide>
+            <rotateDegree>90</rotateDegree>
+            <skewActive>true</skewActive>
+            <skewAngle>0</skewAngle>
+            <skewAngleDetect>0</skewAngleDetect>
+            <skewScore>0</skewScore>
+            <origFileName>0015.jpg</origFileName>
+            
+            
+            
+            <origWidth>4000</origWidth>
+            <origHeight>6000</origHeight>
+            <pageType>Normal</pageType>
+            <addToAccessFormats>true</addToAccessFormats>
+            <cropBox>
+                <x>322</x>
+                <y>1901</y>
+                <w>1795</w>
+                <h>3060</h>
+            </cropBox>
+        </page>
+        <page leafNum="16">
+            <handSide>LEFT</handSide>
+            <rotateDegree>-90</rotateDegree>
+            <skewActive>true</skewActive>
+            <skewAngle>0.5</skewAngle>
+            <skewAngleDetect>0</skewAngleDetect>
+            <skewScore>0</skewScore>
+            <origFileName>0016.jpg</origFileName>
+            
+            
+            
+            <origWidth>4000</origWidth>
+            <origHeight>6000</origHeight>
+            <pageType>Normal</pageType>
+            <addToAccessFormats>true</addToAccessFormats>
+            <cropBox>
+                <x>1867</x>
+                <y>1860</y>
+                <w>1795</w>
+                <h>3060</h>
+            </cropBox>
+        </page>
+        <page leafNum="17">
+            <handSide>RIGHT</handSide>
+            <rotateDegree>90</rotateDegree>
+            <skewActive>true</skewActive>
+            <skewAngle>0.2</skewAngle>
+            <skewAngleDetect>0</skewAngleDetect>
+            <skewScore>0</skewScore>
+            <origFileName>0017.jpg</origFileName>
+            
+            
+            
+            <origWidth>4000</origWidth>
+            <origHeight>6000</origHeight>
+            <pageType>Normal</pageType>
+            <addToAccessFormats>true</addToAccessFormats>
+            <cropBox>
+                <x>322</x>
+                <y>1901</y>
+                <w>1795</w>
+                <h>3060</h>
+            </cropBox>
+        </page>
+        <page leafNum="18">
+            <handSide>LEFT</handSide>
+            <rotateDegree>-90</rotateDegree>
+            <skewActive>true</skewActive>
+            <skewAngle>1.2</skewAngle>
+            <skewAngleDetect>0</skewAngleDetect>
+            <skewScore>0</skewScore>
+            <origFileName>0018.jpg</origFileName>
+            
+            
+            
+            <origWidth>4000</origWidth>
+            <origHeight>6000</origHeight>
+            <pageType>Normal</pageType>
+            <addToAccessFormats>true</addToAccessFormats>
+            <cropBox>
+                <x>1859</x>
+                <y>1868</y>
+                <w>1795</w>
+                <h>3060</h>
+            </cropBox>
+            <pageNumber>2</pageNumber>
+        </page>
+        <page leafNum="19">
+            <handSide>RIGHT</handSide>
+            <rotateDegree>90</rotateDegree>
+            <skewActive>true</skewActive>
+            <skewAngle>0.2</skewAngle>
+            <skewAngleDetect>0</skewAngleDetect>
+            <skewScore>0</skewScore>
+            <origFileName>0019.jpg</origFileName>
+            
+            
+            
+            <origWidth>4000</origWidth>
+            <origHeight>6000</origHeight>
+            <pageType>Normal</pageType>
+            <addToAccessFormats>true</addToAccessFormats>
+            <cropBox>
+                <x>322</x>
+                <y>1901</y>
+                <w>1795</w>
+                <h>3060</h>
+            </cropBox>
+            <pageNumber>3</pageNumber>
+        </page>
+        <page leafNum="20">
+            <handSide>LEFT</handSide>
+            <rotateDegree>-90</rotateDegree>
+            <skewActive>true</skewActive>
+            <skewAngle>0.6</skewAngle>
+            <skewAngleDetect>0</skewAngleDetect>
+            <skewScore>0</skewScore>
+            <origFileName>0020.jpg</origFileName>
+            
+            
+            
+            <origWidth>4000</origWidth>
+            <origHeight>6000</origHeight>
+            <pageType>Normal</pageType>
+            <addToAccessFormats>true</addToAccessFormats>
+            <cropBox>
+                <x>1859</x>
+                <y>1868</y>
+                <w>1795</w>
+                <h>3060</h>
+            </cropBox>
+            <pageNumber>4</pageNumber>
+        </page>
+        <page leafNum="21">
+            <handSide>RIGHT</handSide>
+            <rotateDegree>90</rotateDegree>
+            <skewActive>true</skewActive>
+            <skewAngle>0.2</skewAngle>
+            <skewAngleDetect>0</skewAngleDetect>
+            <skewScore>0</skewScore>
+            <origFileName>0021.jpg</origFileName>
+            
+            
+            
+            <origWidth>4000</origWidth>
+            <origHeight>6000</origHeight>
+            <pageType>Normal</pageType>
+            <addToAccessFormats>true</addToAccessFormats>
+            <cropBox>
+                <x>322</x>
+                <y>1901</y>
+                <w>1795</w>
+                <h>3060</h>
+            </cropBox>
+            <pageNumber>5</pageNumber>
+        </page>
+        <page leafNum="22">
+            <handSide>LEFT</handSide>
+            <rotateDegree>-90</rotateDegree>
+            <skewActive>true</skewActive>
+            <skewAngle>0.8</skewAngle>
+            <skewAngleDetect>0</skewAngleDetect>
+            <skewScore>0</skewScore>
+            <origFileName>0022.jpg</origFileName>
+            
+            
+            
+            <origWidth>4000</origWidth>
+            <origHeight>6000</origHeight>
+            <pageType>Normal</pageType>
+            <addToAccessFormats>true</addToAccessFormats>
+            <cropBox>
+                <x>1859</x>
+                <y>1868</y>
+                <w>1795</w>
+                <h>3060</h>
+            </cropBox>
+            <pageNumber>6</pageNumber>
+        </page>
+        <page leafNum="23">
+            <handSide>RIGHT</handSide>
+            <rotateDegree>90</rotateDegree>
+            <skewActive>true</skewActive>
+            <skewAngle>0.2</skewAngle>
+            <skewAngleDetect>0</skewAngleDetect>
+            <skewScore>0</skewScore>
+            <origFileName>0023.jpg</origFileName>
+            
+            
+            
+            <origWidth>4000</origWidth>
+            <origHeight>6000</origHeight>
+            <pageType>Normal</pageType>
+            <addToAccessFormats>true</addToAccessFormats>
+            <cropBox>
+                <x>322</x>
+                <y>1901</y>
+                <w>1795</w>
+                <h>3060</h>
+            </cropBox>
+            <pageNumber>7</pageNumber>
+        </page>
+        <page leafNum="24">
+            <handSide>LEFT</handSide>
+            <rotateDegree>-90</rotateDegree>
+            <skewActive>true</skewActive>
+            <skewAngle>0.8</skewAngle>
+            <skewAngleDetect>0</skewAngleDetect>
+            <skewScore>0</skewScore>
+            <origFileName>0024.jpg</origFileName>
+            
+            
+            
+            <origWidth>4000</origWidth>
+            <origHeight>6000</origHeight>
+            <pageType>Normal</pageType>
+            <addToAccessFormats>true</addToAccessFormats>
+            <cropBox>
+                <x>1859</x>
+                <y>1868</y>
+                <w>1795</w>
+                <h>3060</h>
+            </cropBox>
+            <pageNumber>8</pageNumber>
+        </page>
+        <page leafNum="25">
+            <handSide>RIGHT</handSide>
+            <rotateDegree>90</rotateDegree>
+            <skewActive>true</skewActive>
+            <skewAngle>0.2</skewAngle>
+            <skewAngleDetect>0</skewAngleDetect>
+            <skewScore>0</skewScore>
+            <origFileName>0025.jpg</origFileName>
+            
+            
+            
+            <origWidth>4000</origWidth>
+            <origHeight>6000</origHeight>
+            <pageType>Normal</pageType>
+            <addToAccessFormats>true</addToAccessFormats>
+            <cropBox>
+                <x>322</x>
+                <y>1901</y>
+                <w>1795</w>
+                <h>3060</h>
+            </cropBox>
+            <pageNumber>9</pageNumber>
+        </page>
+        <page leafNum="26">
+            <handSide>LEFT</handSide>
+            <rotateDegree>-90</rotateDegree>
+            <skewActive>true</skewActive>
+            <skewAngle>0.8</skewAngle>
+            <skewAngleDetect>0</skewAngleDetect>
+            <skewScore>0</skewScore>
+            <origFileName>0026.jpg</origFileName>
+            
+            
+            
+            <origWidth>4000</origWidth>
+            <origHeight>6000</origHeight>
+            <pageType>Normal</pageType>
+            <addToAccessFormats>true</addToAccessFormats>
+            <cropBox>
+                <x>1859</x>
+                <y>1868</y>
+                <w>1795</w>
+                <h>3060</h>
+            </cropBox>
+            <pageNumber>10</pageNumber>
+        </page>
+        <page leafNum="27">
+            <handSide>RIGHT</handSide>
+            <rotateDegree>90</rotateDegree>
+            <skewActive>true</skewActive>
+            <skewAngle>0.2</skewAngle>
+            <skewAngleDetect>0</skewAngleDetect>
+            <skewScore>0</skewScore>
+            <origFileName>0027.jpg</origFileName>
+            
+            
+            
+            <origWidth>4000</origWidth>
+            <origHeight>6000</origHeight>
+            <pageType>Normal</pageType>
+            <addToAccessFormats>true</addToAccessFormats>
+            <cropBox>
+                <x>322</x>
+                <y>1901</y>
+                <w>1795</w>
+                <h>3060</h>
+            </cropBox>
+            <pageNumber>11</pageNumber>
+        </page>
+        <page leafNum="28">
+            <handSide>LEFT</handSide>
+            <rotateDegree>-90</rotateDegree>
+            <skewActive>true</skewActive>
+            <skewAngle>-0.2</skewAngle>
+            <skewAngleDetect>0</skewAngleDetect>
+            <skewScore>0</skewScore>
+            <origFileName>0028.jpg</origFileName>
+            
+            
+            
+            <origWidth>4000</origWidth>
+            <origHeight>6000</origHeight>
+            <pageType>Normal</pageType>
+            <addToAccessFormats>true</addToAccessFormats>
+            <cropBox>
+                <x>1859</x>
+                <y>1868</y>
+                <w>1795</w>
+                <h>3060</h>
+            </cropBox>
+            <pageNumber>12</pageNumber>
+        </page>
+        <page leafNum="29">
+            <handSide>RIGHT</handSide>
+            <rotateDegree>90</rotateDegree>
+            <skewActive>true</skewActive>
+            <skewAngle>0.2</skewAngle>
+            <skewAngleDetect>0</skewAngleDetect>
+            <skewScore>0</skewScore>
+            <origFileName>0029.jpg</origFileName>
+            
+            
+            
+            <origWidth>4000</origWidth>
+            <origHeight>6000</origHeight>
+            <pageType>Normal</pageType>
+            <addToAccessFormats>true</addToAccessFormats>
+            <cropBox>
+                <x>322</x>
+                <y>1901</y>
+                <w>1795</w>
+                <h>3060</h>
+            </cropBox>
+            <pageNumber>13</pageNumber>
+        </page>
+        <page leafNum="30">
+            <handSide>LEFT</handSide>
+            <rotateDegree>-90</rotateDegree>
+            <skewActive>true</skewActive>
+            <skewAngle>0.4</skewAngle>
+            <skewAngleDetect>0</skewAngleDetect>
+            <skewScore>0</skewScore>
+            <origFileName>0030.jpg</origFileName>
+            
+            
+            
+            <origWidth>4000</origWidth>
+            <origHeight>6000</origHeight>
+            <pageType>Normal</pageType>
+            <addToAccessFormats>true</addToAccessFormats>
+            <cropBox>
+                <x>1859</x>
+                <y>1868</y>
+                <w>1795</w>
+                <h>3060</h>
+            </cropBox>
+            <pageNumber>14</pageNumber>
+        </page>
+        <page leafNum="31">
+            <handSide>RIGHT</handSide>
+            <rotateDegree>90</rotateDegree>
+            <skewActive>true</skewActive>
+            <skewAngle>0.2</skewAngle>
+            <skewAngleDetect>0</skewAngleDetect>
+            <skewScore>0</skewScore>
+            <origFileName>0031.jpg</origFileName>
+            
+            
+            
+            <origWidth>4000</origWidth>
+            <origHeight>6000</origHeight>
+            <pageType>Normal</pageType>
+            <addToAccessFormats>true</addToAccessFormats>
+            <cropBox>
+                <x>322</x>
+                <y>1901</y>
+                <w>1795</w>
+                <h>3060</h>
+            </cropBox>
+            <pageNumber>15</pageNumber>
+        </page>
+        <page leafNum="32">
+            <handSide>LEFT</handSide>
+            <rotateDegree>-90</rotateDegree>
+            <skewActive>true</skewActive>
+            <skewAngle>0.4</skewAngle>
+            <skewAngleDetect>0</skewAngleDetect>
+            <skewScore>0</skewScore>
+            <origFileName>0032.jpg</origFileName>
+            
+            
+            
+            <origWidth>4000</origWidth>
+            <origHeight>6000</origHeight>
+            <pageType>Normal</pageType>
+            <addToAccessFormats>true</addToAccessFormats>
+            <cropBox>
+                <x>1859</x>
+                <y>1868</y>
+                <w>1795</w>
+                <h>3060</h>
+            </cropBox>
+            <pageNumber>16</pageNumber>
+        </page>
+        <page leafNum="33">
+            <handSide>RIGHT</handSide>
+            <rotateDegree>90</rotateDegree>
+            <skewActive>true</skewActive>
+            <skewAngle>0.2</skewAngle>
+            <skewAngleDetect>0</skewAngleDetect>
+            <skewScore>0</skewScore>
+            <origFileName>0033.jpg</origFileName>
+            
+            
+            
+            <origWidth>4000</origWidth>
+            <origHeight>6000</origHeight>
+            <pageType>Normal</pageType>
+            <addToAccessFormats>true</addToAccessFormats>
+            <cropBox>
+                <x>322</x>
+                <y>1901</y>
+                <w>1795</w>
+                <h>3060</h>
+            </cropBox>
+            <pageNumber>17</pageNumber>
+        </page>
+        <page leafNum="34">
+            <handSide>LEFT</handSide>
+            <rotateDegree>-90</rotateDegree>
+            <skewActive>true</skewActive>
+            <skewAngle>0.4</skewAngle>
+            <skewAngleDetect>0</skewAngleDetect>
+            <skewScore>0</skewScore>
+            <origFileName>0034.jpg</origFileName>
+            
+            
+            
+            <origWidth>4000</origWidth>
+            <origHeight>6000</origHeight>
+            <pageType>Normal</pageType>
+            <addToAccessFormats>true</addToAccessFormats>
+            <cropBox>
+                <x>1859</x>
+                <y>1868</y>
+                <w>1795</w>
+                <h>3060</h>
+            </cropBox>
+            <pageNumber>18</pageNumber>
+        </page>
+        <page leafNum="35">
+            <handSide>RIGHT</handSide>
+            <rotateDegree>90</rotateDegree>
+            <skewActive>true</skewActive>
+            <skewAngle>0.2</skewAngle>
+            <skewAngleDetect>0</skewAngleDetect>
+            <skewScore>0</skewScore>
+            <origFileName>0035.jpg</origFileName>
+            
+            
+            
+            <origWidth>4000</origWidth>
+            <origHeight>6000</origHeight>
+            <pageType>Normal</pageType>
+            <addToAccessFormats>true</addToAccessFormats>
+            <cropBox>
+                <x>322</x>
+                <y>1901</y>
+                <w>1795</w>
+                <h>3060</h>
+            </cropBox>
+            <pageNumber>19</pageNumber>
+        </page>
+        <page leafNum="36">
+            <handSide>LEFT</handSide>
+            <rotateDegree>-90</rotateDegree>
+            <skewActive>true</skewActive>
+            <skewAngle>0.4</skewAngle>
+            <skewAngleDetect>0</skewAngleDetect>
+            <skewScore>0</skewScore>
+            <origFileName>0036.jpg</origFileName>
+            
+            
+            
+            <origWidth>4000</origWidth>
+            <origHeight>6000</origHeight>
+            <pageType>Normal</pageType>
+            <addToAccessFormats>true</addToAccessFormats>
+            <cropBox>
+                <x>1859</x>
+                <y>1868</y>
+                <w>1795</w>
+                <h>3060</h>
+            </cropBox>
+            <pageNumber>20</pageNumber>
+        </page>
+        <page leafNum="37">
+            <handSide>RIGHT</handSide>
+            <rotateDegree>90</rotateDegree>
+            <skewActive>true</skewActive>
+            <skewAngle>0.2</skewAngle>
+            <skewAngleDetect>0</skewAngleDetect>
+            <skewScore>0</skewScore>
+            <origFileName>0037.jpg</origFileName>
+            
+            
+            
+            <origWidth>4000</origWidth>
+            <origHeight>6000</origHeight>
+            <pageType>Normal</pageType>
+            <addToAccessFormats>true</addToAccessFormats>
+            <cropBox>
+                <x>322</x>
+                <y>1901</y>
+                <w>1795</w>
+                <h>3060</h>
+            </cropBox>
+            <pageNumber>21</pageNumber>
+        </page>
+        <page leafNum="38">
+            <handSide>LEFT</handSide>
+            <rotateDegree>-90</rotateDegree>
+            <skewActive>true</skewActive>
+            <skewAngle>0.4</skewAngle>
+            <skewAngleDetect>0</skewAngleDetect>
+            <skewScore>0</skewScore>
+            <origFileName>0038.jpg</origFileName>
+            
+            
+            
+            <origWidth>4000</origWidth>
+            <origHeight>6000</origHeight>
+            <pageType>Normal</pageType>
+            <addToAccessFormats>true</addToAccessFormats>
+            <cropBox>
+                <x>1859</x>
+                <y>1868</y>
+                <w>1795</w>
+                <h>3060</h>
+            </cropBox>
+            <pageNumber>22</pageNumber>
+        </page>
+        <page leafNum="39">
+            <handSide>RIGHT</handSide>
+            <rotateDegree>90</rotateDegree>
+            <skewActive>true</skewActive>
+            <skewAngle>0.2</skewAngle>
+            <skewAngleDetect>0</skewAngleDetect>
+            <skewScore>0</skewScore>
+            <origFileName>0039.jpg</origFileName>
+            
+            
+            
+            <origWidth>4000</origWidth>
+            <origHeight>6000</origHeight>
+            <pageType>Normal</pageType>
+            <addToAccessFormats>true</addToAccessFormats>
+            <cropBox>
+                <x>322</x>
+                <y>1901</y>
+                <w>1795</w>
+                <h>3060</h>
+            </cropBox>
+            <pageNumber>23</pageNumber>
+        </page>
+        <page leafNum="40">
+            <handSide>LEFT</handSide>
+            <rotateDegree>-90</rotateDegree>
+            <skewActive>true</skewActive>
+            <skewAngle>0.4</skewAngle>
+            <skewAngleDetect>0</skewAngleDetect>
+            <skewScore>0</skewScore>
+            <origFileName>0040.jpg</origFileName>
+            
+            
+            
+            <origWidth>4000</origWidth>
+            <origHeight>6000</origHeight>
+            <pageType>Normal</pageType>
+            <addToAccessFormats>true</addToAccessFormats>
+            <cropBox>
+                <x>1859</x>
+                <y>1868</y>
+                <w>1795</w>
+                <h>3060</h>
+            </cropBox>
+            <pageNumber>24</pageNumber>
+        </page>
+        <page leafNum="41">
+            <handSide>RIGHT</handSide>
+            <rotateDegree>90</rotateDegree>
+            <skewActive>true</skewActive>
+            <skewAngle>0.2</skewAngle>
+            <skewAngleDetect>0</skewAngleDetect>
+            <skewScore>0</skewScore>
+            <origFileName>0041.jpg</origFileName>
+            
+            
+            
+            <origWidth>4000</origWidth>
+            <origHeight>6000</origHeight>
+            <pageType>Normal</pageType>
+            <addToAccessFormats>true</addToAccessFormats>
+            <cropBox>
+                <x>322</x>
+                <y>1901</y>
+                <w>1795</w>
+                <h>3060</h>
+            </cropBox>
+            <pageNumber>25</pageNumber>
+        </page>
+        <page leafNum="42">
+            <handSide>LEFT</handSide>
+            <rotateDegree>-90</rotateDegree>
+            <skewActive>true</skewActive>
+            <skewAngle>0.4</skewAngle>
+            <skewAngleDetect>0</skewAngleDetect>
+            <skewScore>0</skewScore>
+            <origFileName>0042.jpg</origFileName>
+            
+            
+            
+            <origWidth>4000</origWidth>
+            <origHeight>6000</origHeight>
+            <pageType>Normal</pageType>
+            <addToAccessFormats>true</addToAccessFormats>
+            <cropBox>
+                <x>1859</x>
+                <y>1868</y>
+                <w>1795</w>
+                <h>3060</h>
+            </cropBox>
+            <pageNumber>26</pageNumber>
+        </page>
+        <page leafNum="43">
+            <handSide>RIGHT</handSide>
+            <rotateDegree>90</rotateDegree>
+            <skewActive>true</skewActive>
+            <skewAngle>0.2</skewAngle>
+            <skewAngleDetect>0</skewAngleDetect>
+            <skewScore>0</skewScore>
+            <origFileName>0043.jpg</origFileName>
+            
+            
+            
+            <origWidth>4000</origWidth>
+            <origHeight>6000</origHeight>
+            <pageType>Normal</pageType>
+            <addToAccessFormats>true</addToAccessFormats>
+            <cropBox>
+                <x>322</x>
+                <y>1901</y>
+                <w>1795</w>
+                <h>3060</h>
+            </cropBox>
+            <pageNumber>27</pageNumber>
+        </page>
+        <page leafNum="44">
+            <handSide>LEFT</handSide>
+            <rotateDegree>-90</rotateDegree>
+            <skewActive>true</skewActive>
+            <skewAngle>0.4</skewAngle>
+            <skewAngleDetect>0</skewAngleDetect>
+            <skewScore>0</skewScore>
+            <origFileName>0044.jpg</origFileName>
+            
+            
+            
+            <origWidth>4000</origWidth>
+            <origHeight>6000</origHeight>
+            <pageType>Normal</pageType>
+            <addToAccessFormats>true</addToAccessFormats>
+            <cropBox>
+                <x>1859</x>
+                <y>1868</y>
+                <w>1795</w>
+                <h>3060</h>
+            </cropBox>
+            <pageNumber>28</pageNumber>
+        </page>
+        <page leafNum="45">
+            <handSide>RIGHT</handSide>
+            <rotateDegree>90</rotateDegree>
+            <skewActive>true</skewActive>
+            <skewAngle>0.2</skewAngle>
+            <skewAngleDetect>0</skewAngleDetect>
+            <skewScore>0</skewScore>
+            <origFileName>0045.jpg</origFileName>
+            
+            
+            
+            <origWidth>4000</origWidth>
+            <origHeight>6000</origHeight>
+            <pageType>Normal</pageType>
+            <addToAccessFormats>true</addToAccessFormats>
+            <cropBox>
+                <x>322</x>
+                <y>1901</y>
+                <w>1795</w>
+                <h>3060</h>
+            </cropBox>
+            <pageNumber>29</pageNumber>
+        </page>
+        <page leafNum="46">
+            <handSide>LEFT</handSide>
+            <rotateDegree>-90</rotateDegree>
+            <skewActive>true</skewActive>
+            <skewAngle>0.4</skewAngle>
+            <skewAngleDetect>0</skewAngleDetect>
+            <skewScore>0</skewScore>
+            <origFileName>0046.jpg</origFileName>
+            
+            
+            
+            <origWidth>4000</origWidth>
+            <origHeight>6000</origHeight>
+            <pageType>Normal</pageType>
+            <addToAccessFormats>true</addToAccessFormats>
+            <cropBox>
+                <x>1859</x>
+                <y>1868</y>
+                <w>1795</w>
+                <h>3060</h>
+            </cropBox>
+            <pageNumber>30</pageNumber>
+        </page>
+        <page leafNum="47">
+            <handSide>RIGHT</handSide>
+            <rotateDegree>90</rotateDegree>
+            <skewActive>true</skewActive>
+            <skewAngle>0.2</skewAngle>
+            <skewAngleDetect>0</skewAngleDetect>
+            <skewScore>0</skewScore>
+            <origFileName>0047.jpg</origFileName>
+            
+            
+            
+            <origWidth>4000</origWidth>
+            <origHeight>6000</origHeight>
+            <pageType>Normal</pageType>
+            <addToAccessFormats>true</addToAccessFormats>
+            <cropBox>
+                <x>322</x>
+                <y>1901</y>
+                <w>1795</w>
+                <h>3060</h>
+            </cropBox>
+            <pageNumber>31</pageNumber>
+        </page>
+        <page leafNum="48">
+            <handSide>LEFT</handSide>
+            <rotateDegree>-90</rotateDegree>
+            <skewActive>true</skewActive>
+            <skewAngle>0.4</skewAngle>
+            <skewAngleDetect>0</skewAngleDetect>
+            <skewScore>0</skewScore>
+            <origFileName>0048.jpg</origFileName>
+            
+            
+            
+            <origWidth>4000</origWidth>
+            <origHeight>6000</origHeight>
+            <pageType>Normal</pageType>
+            <addToAccessFormats>true</addToAccessFormats>
+            <cropBox>
+                <x>1859</x>
+                <y>1868</y>
+                <w>1795</w>
+                <h>3060</h>
+            </cropBox>
+            <pageNumber>32</pageNumber>
+        </page>
+        <page leafNum="49">
+            <handSide>RIGHT</handSide>
+            <rotateDegree>90</rotateDegree>
+            <skewActive>true</skewActive>
+            <skewAngle>0.2</skewAngle>
+            <skewAngleDetect>0</skewAngleDetect>
+            <skewScore>0</skewScore>
+            <origFileName>0049.jpg</origFileName>
+            
+            
+            
+            <origWidth>4000</origWidth>
+            <origHeight>6000</origHeight>
+            <pageType>Normal</pageType>
+            <addToAccessFormats>true</addToAccessFormats>
+            <cropBox>
+                <x>322</x>
+                <y>1901</y>
+                <w>1795</w>
+                <h>3060</h>
+            </cropBox>
+            <pageNumber>33</pageNumber>
+        </page>
+        <page leafNum="50">
+            <handSide>LEFT</handSide>
+            <rotateDegree>-90</rotateDegree>
+            <skewActive>true</skewActive>
+            <skewAngle>0.5</skewAngle>
+            <skewAngleDetect>0</skewAngleDetect>
+            <skewScore>0</skewScore>
+            <origFileName>0050.jpg</origFileName>
+            
+            
+            
+            <origWidth>4000</origWidth>
+            <origHeight>6000</origHeight>
+            <pageType>Normal</pageType>
+            <addToAccessFormats>true</addToAccessFormats>
+            <cropBox>
+                <x>1859</x>
+                <y>1852</y>
+                <w>1795</w>
+                <h>3060</h>
+            </cropBox>
+            <pageNumber>34</pageNumber>
+        </page>
+        <page leafNum="51">
+            <handSide>RIGHT</handSide>
+            <rotateDegree>90</rotateDegree>
+            <skewActive>true</skewActive>
+            <skewAngle>0.2</skewAngle>
+            <skewAngleDetect>0</skewAngleDetect>
+            <skewScore>0</skewScore>
+            <origFileName>0051.jpg</origFileName>
+            
+            
+            
+            <origWidth>4000</origWidth>
+            <origHeight>6000</origHeight>
+            <pageType>Normal</pageType>
+            <addToAccessFormats>true</addToAccessFormats>
+            <cropBox>
+                <x>322</x>
+                <y>1901</y>
+                <w>1795</w>
+                <h>3060</h>
+            </cropBox>
+            <pageNumber>35</pageNumber>
+        </page>
+        <page leafNum="52">
+            <handSide>LEFT</handSide>
+            <rotateDegree>-90</rotateDegree>
+            <skewActive>true</skewActive>
+            <skewAngle>0.5</skewAngle>
+            <skewAngleDetect>0</skewAngleDetect>
+            <skewScore>0</skewScore>
+            <origFileName>0052.jpg</origFileName>
+            
+            
+            
+            <origWidth>4000</origWidth>
+            <origHeight>6000</origHeight>
+            <pageType>Normal</pageType>
+            <addToAccessFormats>true</addToAccessFormats>
+            <cropBox>
+                <x>1859</x>
+                <y>1836</y>
+                <w>1795</w>
+                <h>3060</h>
+            </cropBox>
+            <pageNumber>36</pageNumber>
+        </page>
+        <page leafNum="53">
+            <handSide>RIGHT</handSide>
+            <rotateDegree>90</rotateDegree>
+            <skewActive>true</skewActive>
+            <skewAngle>1.1</skewAngle>
+            <skewAngleDetect>0</skewAngleDetect>
+            <skewScore>0</skewScore>
+            <origFileName>0053.jpg</origFileName>
+            
+            
+            
+            <origWidth>4000</origWidth>
+            <origHeight>6000</origHeight>
+            <pageType>Normal</pageType>
+            <addToAccessFormats>true</addToAccessFormats>
+            <cropBox>
+                <x>330</x>
+                <y>1860</y>
+                <w>1795</w>
+                <h>3060</h>
+            </cropBox>
+            <pageNumber>37</pageNumber>
+        </page>
+        <page leafNum="54">
+            <handSide>LEFT</handSide>
+            <rotateDegree>-90</rotateDegree>
+            <skewActive>true</skewActive>
+            <skewAngle>0.5</skewAngle>
+            <skewAngleDetect>0</skewAngleDetect>
+            <skewScore>0</skewScore>
+            <origFileName>0054.jpg</origFileName>
+            
+            
+            
+            <origWidth>4000</origWidth>
+            <origHeight>6000</origHeight>
+            <pageType>Normal</pageType>
+            <addToAccessFormats>true</addToAccessFormats>
+            <cropBox>
+                <x>1859</x>
+                <y>1836</y>
+                <w>1795</w>
+                <h>3060</h>
+            </cropBox>
+            <pageNumber>38</pageNumber>
+        </page>
+        <page leafNum="55">
+            <handSide>RIGHT</handSide>
+            <rotateDegree>90</rotateDegree>
+            <skewActive>true</skewActive>
+            <skewAngle>1.1</skewAngle>
+            <skewAngleDetect>0</skewAngleDetect>
+            <skewScore>0</skewScore>
+            <origFileName>0055.jpg</origFileName>
+            
+            
+            
+            <origWidth>4000</origWidth>
+            <origHeight>6000</origHeight>
+            <pageType>Normal</pageType>
+            <addToAccessFormats>true</addToAccessFormats>
+            <cropBox>
+                <x>330</x>
+                <y>1860</y>
+                <w>1795</w>
+                <h>3060</h>
+            </cropBox>
+            <pageNumber>39</pageNumber>
+        </page>
+        <page leafNum="56">
+            <handSide>LEFT</handSide>
+            <rotateDegree>-90</rotateDegree>
+            <skewActive>true</skewActive>
+            <skewAngle>0.5</skewAngle>
+            <skewAngleDetect>0</skewAngleDetect>
+            <skewScore>0</skewScore>
+            <origFileName>0056.jpg</origFileName>
+            
+            
+            
+            <origWidth>4000</origWidth>
+            <origHeight>6000</origHeight>
+            <pageType>Normal</pageType>
+            <addToAccessFormats>true</addToAccessFormats>
+            <cropBox>
+                <x>1859</x>
+                <y>1836</y>
+                <w>1795</w>
+                <h>3060</h>
+            </cropBox>
+            <pageNumber>40</pageNumber>
+        </page>
+        <page leafNum="57">
+            <handSide>RIGHT</handSide>
+            <rotateDegree>90</rotateDegree>
+            <skewActive>true</skewActive>
+            <skewAngle>1.1</skewAngle>
+            <skewAngleDetect>0</skewAngleDetect>
+            <skewScore>0</skewScore>
+            <origFileName>0057.jpg</origFileName>
+            
+            
+            
+            <origWidth>4000</origWidth>
+            <origHeight>6000</origHeight>
+            <pageType>Normal</pageType>
+            <addToAccessFormats>true</addToAccessFormats>
+            <cropBox>
+                <x>330</x>
+                <y>1860</y>
+                <w>1795</w>
+                <h>3060</h>
+            </cropBox>
+            <pageNumber>41</pageNumber>
+        </page>
+        <page leafNum="58">
+            <handSide>LEFT</handSide>
+            <rotateDegree>-90</rotateDegree>
+            <skewActive>true</skewActive>
+            <skewAngle>0.5</skewAngle>
+            <skewAngleDetect>0</skewAngleDetect>
+            <skewScore>0</skewScore>
+            <origFileName>0058.jpg</origFileName>
+            
+            
+            
+            <origWidth>4000</origWidth>
+            <origHeight>6000</origHeight>
+            <pageType>Normal</pageType>
+            <addToAccessFormats>true</addToAccessFormats>
+            <cropBox>
+                <x>1859</x>
+                <y>1836</y>
+                <w>1795</w>
+                <h>3060</h>
+            </cropBox>
+            <pageNumber>42</pageNumber>
+        </page>
+        <page leafNum="59">
+            <handSide>RIGHT</handSide>
+            <rotateDegree>90</rotateDegree>
+            <skewActive>true</skewActive>
+            <skewAngle>1.1</skewAngle>
+            <skewAngleDetect>0</skewAngleDetect>
+            <skewScore>0</skewScore>
+            <origFileName>0059.jpg</origFileName>
+            
+            
+            
+            <origWidth>4000</origWidth>
+            <origHeight>6000</origHeight>
+            <pageType>Normal</pageType>
+            <addToAccessFormats>true</addToAccessFormats>
+            <cropBox>
+                <x>330</x>
+                <y>1860</y>
+                <w>1795</w>
+                <h>3060</h>
+            </cropBox>
+            <pageNumber>43</pageNumber>
+        </page>
+        <page leafNum="60">
+            <handSide>LEFT</handSide>
+            <rotateDegree>-90</rotateDegree>
+            <skewActive>true</skewActive>
+            <skewAngle>0.5</skewAngle>
+            <skewAngleDetect>0</skewAngleDetect>
+            <skewScore>0</skewScore>
+            <origFileName>0060.jpg</origFileName>
+            
+            
+            
+            <origWidth>4000</origWidth>
+            <origHeight>6000</origHeight>
+            <pageType>Normal</pageType>
+            <addToAccessFormats>true</addToAccessFormats>
+            <cropBox>
+                <x>1859</x>
+                <y>1836</y>
+                <w>1795</w>
+                <h>3060</h>
+            </cropBox>
+            <pageNumber>44</pageNumber>
+        </page>
+        <page leafNum="61">
+            <handSide>RIGHT</handSide>
+            <rotateDegree>90</rotateDegree>
+            <skewActive>true</skewActive>
+            <skewAngle>1.1</skewAngle>
+            <skewAngleDetect>0</skewAngleDetect>
+            <skewScore>0</skewScore>
+            <origFileName>0061.jpg</origFileName>
+            
+            
+            
+            <origWidth>4000</origWidth>
+            <origHeight>6000</origHeight>
+            <pageType>Normal</pageType>
+            <addToAccessFormats>true</addToAccessFormats>
+            <cropBox>
+                <x>330</x>
+                <y>1860</y>
+                <w>1795</w>
+                <h>3060</h>
+            </cropBox>
+            <pageNumber>45</pageNumber>
+        </page>
+        <page leafNum="62">
+            <handSide>LEFT</handSide>
+            <rotateDegree>-90</rotateDegree>
+            <skewActive>true</skewActive>
+            <skewAngle>0.5</skewAngle>
+            <skewAngleDetect>0</skewAngleDetect>
+            <skewScore>0</skewScore>
+            <origFileName>0062.jpg</origFileName>
+            
+            
+            
+            <origWidth>4000</origWidth>
+            <origHeight>6000</origHeight>
+            <pageType>Normal</pageType>
+            <addToAccessFormats>true</addToAccessFormats>
+            <cropBox>
+                <x>1859</x>
+                <y>1836</y>
+                <w>1795</w>
+                <h>3060</h>
+            </cropBox>
+            <pageNumber>46</pageNumber>
+        </page>
+        <page leafNum="63">
+            <handSide>RIGHT</handSide>
+            <rotateDegree>90</rotateDegree>
+            <skewActive>true</skewActive>
+            <skewAngle>1.1</skewAngle>
+            <skewAngleDetect>0</skewAngleDetect>
+            <skewScore>0</skewScore>
+            <origFileName>0063.jpg</origFileName>
+            
+            
+            
+            <origWidth>4000</origWidth>
+            <origHeight>6000</origHeight>
+            <pageType>Normal</pageType>
+            <addToAccessFormats>true</addToAccessFormats>
+            <cropBox>
+                <x>330</x>
+                <y>1860</y>
+                <w>1795</w>
+                <h>3060</h>
+            </cropBox>
+            <pageNumber>47</pageNumber>
+        </page>
+        <page leafNum="64">
+            <handSide>LEFT</handSide>
+            <rotateDegree>-90</rotateDegree>
+            <skewActive>true</skewActive>
+            <skewAngle>0.5</skewAngle>
+            <skewAngleDetect>0</skewAngleDetect>
+            <skewScore>0</skewScore>
+            <origFileName>0064.jpg</origFileName>
+            
+            
+            
+            <origWidth>4000</origWidth>
+            <origHeight>6000</origHeight>
+            <pageType>Normal</pageType>
+            <addToAccessFormats>true</addToAccessFormats>
+            <cropBox>
+                <x>1859</x>
+                <y>1836</y>
+                <w>1795</w>
+                <h>3060</h>
+            </cropBox>
+            <pageNumber>48</pageNumber>
+        </page>
+        <page leafNum="65">
+            <handSide>RIGHT</handSide>
+            <rotateDegree>90</rotateDegree>
+            <skewActive>true</skewActive>
+            <skewAngle>1.1</skewAngle>
+            <skewAngleDetect>0</skewAngleDetect>
+            <skewScore>0</skewScore>
+            <origFileName>0065.jpg</origFileName>
+            
+            
+            
+            <origWidth>4000</origWidth>
+            <origHeight>6000</origHeight>
+            <pageType>Normal</pageType>
+            <addToAccessFormats>true</addToAccessFormats>
+            <cropBox>
+                <x>330</x>
+                <y>1860</y>
+                <w>1795</w>
+                <h>3060</h>
+            </cropBox>
+            <pageNumber>49</pageNumber>
+        </page>
+        <page leafNum="66">
+            <handSide>LEFT</handSide>
+            <rotateDegree>-90</rotateDegree>
+            <skewActive>true</skewActive>
+            <skewAngle>-2.4</skewAngle>
+            <skewAngleDetect>0</skewAngleDetect>
+            <skewScore>0</skewScore>
+            <origFileName>0066.jpg</origFileName>
+            
+            
+            
+            <origWidth>4000</origWidth>
+            <origHeight>6000</origHeight>
+            <pageType>Normal</pageType>
+            <addToAccessFormats>true</addToAccessFormats>
+            <cropBox>
+                <x>1891</x>
+                <y>1764</y>
+                <w>1738</w>
+                <h>3052</h>
+            </cropBox>
+            <pageNumber>50</pageNumber>
+        </page>
+        <page leafNum="67">
+            <handSide>RIGHT</handSide>
+            <rotateDegree>90</rotateDegree>
+            <skewActive>true</skewActive>
+            <skewAngle>1.1</skewAngle>
+            <skewAngleDetect>0</skewAngleDetect>
+            <skewScore>0</skewScore>
+            <origFileName>0067.jpg</origFileName>
+            
+            
+            
+            <origWidth>4000</origWidth>
+            <origHeight>6000</origHeight>
+            <pageType>Normal</pageType>
+            <addToAccessFormats>true</addToAccessFormats>
+            <cropBox>
+                <x>330</x>
+                <y>1860</y>
+                <w>1795</w>
+                <h>3060</h>
+            </cropBox>
+            <pageNumber>51</pageNumber>
+        </page>
+        <page leafNum="68">
+            <handSide>LEFT</handSide>
+            <rotateDegree>-90</rotateDegree>
+            <skewActive>true</skewActive>
+            <skewAngle>0.5</skewAngle>
+            <skewAngleDetect>0</skewAngleDetect>
+            <skewScore>0</skewScore>
+            <origFileName>0068.jpg</origFileName>
+            
+            
+            
+            <origWidth>4000</origWidth>
+            <origHeight>6000</origHeight>
+            <pageType>Normal</pageType>
+            <addToAccessFormats>true</addToAccessFormats>
+            <cropBox>
+                <x>1859</x>
+                <y>1836</y>
+                <w>1795</w>
+                <h>3060</h>
+            </cropBox>
+            <pageNumber>52</pageNumber>
+        </page>
+        <page leafNum="69">
+            <handSide>RIGHT</handSide>
+            <rotateDegree>90</rotateDegree>
+            <skewActive>true</skewActive>
+            <skewAngle>1.1</skewAngle>
+            <skewAngleDetect>0</skewAngleDetect>
+            <skewScore>0</skewScore>
+            <origFileName>0069.jpg</origFileName>
+            
+            
+            
+            <origWidth>4000</origWidth>
+            <origHeight>6000</origHeight>
+            <pageType>Normal</pageType>
+            <addToAccessFormats>true</addToAccessFormats>
+            <cropBox>
+                <x>330</x>
+                <y>1860</y>
+                <w>1795</w>
+                <h>3060</h>
+            </cropBox>
+            <pageNumber>53</pageNumber>
+        </page>
+        <page leafNum="70">
+            <handSide>LEFT</handSide>
+            <rotateDegree>-90</rotateDegree>
+            <skewActive>true</skewActive>
+            <skewAngle>-0.9</skewAngle>
+            <skewAngleDetect>0</skewAngleDetect>
+            <skewScore>0</skewScore>
+            <origFileName>0070.jpg</origFileName>
+            
+            
+            
+            <origWidth>4000</origWidth>
+            <origHeight>6000</origHeight>
+            <pageType>Normal</pageType>
+            <addToAccessFormats>true</addToAccessFormats>
+            <cropBox>
+                <x>1859</x>
+                <y>1828</y>
+                <w>1795</w>
+                <h>3060</h>
+            </cropBox>
+            <pageNumber>54</pageNumber>
+        </page>
+        <page leafNum="71">
+            <handSide>RIGHT</handSide>
+            <rotateDegree>90</rotateDegree>
+            <skewActive>true</skewActive>
+            <skewAngle>1.1</skewAngle>
+            <skewAngleDetect>0</skewAngleDetect>
+            <skewScore>0</skewScore>
+            <origFileName>0071.jpg</origFileName>
+            
+            
+            
+            <origWidth>4000</origWidth>
+            <origHeight>6000</origHeight>
+            <pageType>Normal</pageType>
+            <addToAccessFormats>true</addToAccessFormats>
+            <cropBox>
+                <x>330</x>
+                <y>1860</y>
+                <w>1795</w>
+                <h>3060</h>
+            </cropBox>
+            <pageNumber>55</pageNumber>
+        </page>
+        <page leafNum="72">
+            <handSide>LEFT</handSide>
+            <rotateDegree>-90</rotateDegree>
+            <skewActive>true</skewActive>
+            <skewAngle>-0.9</skewAngle>
+            <skewAngleDetect>0</skewAngleDetect>
+            <skewScore>0</skewScore>
+            <origFileName>0072.jpg</origFileName>
+            
+            
+            
+            <origWidth>4000</origWidth>
+            <origHeight>6000</origHeight>
+            <pageType>Normal</pageType>
+            <addToAccessFormats>true</addToAccessFormats>
+            <cropBox>
+                <x>1859</x>
+                <y>1828</y>
+                <w>1795</w>
+                <h>3060</h>
+            </cropBox>
+            <pageNumber>56</pageNumber>
+        </page>
+        <page leafNum="73">
+            <handSide>RIGHT</handSide>
+            <rotateDegree>90</rotateDegree>
+            <skewActive>true</skewActive>
+            <skewAngle>1.1</skewAngle>
+            <skewAngleDetect>0</skewAngleDetect>
+            <skewScore>0</skewScore>
+            <origFileName>0073.jpg</origFileName>
+            
+            
+            
+            <origWidth>4000</origWidth>
+            <origHeight>6000</origHeight>
+            <pageType>Normal</pageType>
+            <addToAccessFormats>true</addToAccessFormats>
+            <cropBox>
+                <x>330</x>
+                <y>1860</y>
+                <w>1795</w>
+                <h>3060</h>
+            </cropBox>
+            <pageNumber>57</pageNumber>
+        </page>
+        <page leafNum="74">
+            <handSide>LEFT</handSide>
+            <rotateDegree>-90</rotateDegree>
+            <skewActive>true</skewActive>
+            <skewAngle>-0.9</skewAngle>
+            <skewAngleDetect>0</skewAngleDetect>
+            <skewScore>0</skewScore>
+            <origFileName>0074.jpg</origFileName>
+            
+            
+            
+            <origWidth>4000</origWidth>
+            <origHeight>6000</origHeight>
+            <pageType>Normal</pageType>
+            <addToAccessFormats>true</addToAccessFormats>
+            <cropBox>
+                <x>1859</x>
+                <y>1828</y>
+                <w>1795</w>
+                <h>3060</h>
+            </cropBox>
+            <pageNumber>58</pageNumber>
+        </page>
+        <page leafNum="75">
+            <handSide>RIGHT</handSide>
+            <rotateDegree>90</rotateDegree>
+            <skewActive>true</skewActive>
+            <skewAngle>-0.1</skewAngle>
+            <skewAngleDetect>0</skewAngleDetect>
+            <skewScore>0</skewScore>
+            <origFileName>0075.jpg</origFileName>
+            
+            
+            
+            <origWidth>4000</origWidth>
+            <origHeight>6000</origHeight>
+            <pageType>Normal</pageType>
+            <addToAccessFormats>true</addToAccessFormats>
+            <cropBox>
+                <x>338</x>
+                <y>1901</y>
+                <w>1795</w>
+                <h>3060</h>
+            </cropBox>
+            <pageNumber>59</pageNumber>
+        </page>
+        <page leafNum="76">
+            <handSide>LEFT</handSide>
+            <rotateDegree>-90</rotateDegree>
+            <skewActive>true</skewActive>
+            <skewAngle>-0.3</skewAngle>
+            <skewAngleDetect>0</skewAngleDetect>
+            <skewScore>0</skewScore>
+            <origFileName>0076.jpg</origFileName>
+            
+            
+            
+            <origWidth>4000</origWidth>
+            <origHeight>6000</origHeight>
+            <pageType>Normal</pageType>
+            <addToAccessFormats>true</addToAccessFormats>
+            <cropBox>
+                <x>1859</x>
+                <y>1828</y>
+                <w>1795</w>
+                <h>3060</h>
+            </cropBox>
+            <pageNumber>60</pageNumber>
+        </page>
+        <page leafNum="77">
+            <handSide>RIGHT</handSide>
+            <rotateDegree>90</rotateDegree>
+            <skewActive>true</skewActive>
+            <skewAngle>1.1</skewAngle>
+            <skewAngleDetect>0</skewAngleDetect>
+            <skewScore>0</skewScore>
+            <origFileName>0077.jpg</origFileName>
+            
+            
+            
+            <origWidth>4000</origWidth>
+            <origHeight>6000</origHeight>
+            <pageType>Normal</pageType>
+            <addToAccessFormats>true</addToAccessFormats>
+            <cropBox>
+                <x>330</x>
+                <y>1860</y>
+                <w>1795</w>
+                <h>3060</h>
+            </cropBox>
+            <pageNumber>61</pageNumber>
+        </page>
+        <page leafNum="78">
+            <handSide>LEFT</handSide>
+            <rotateDegree>-90</rotateDegree>
+            <skewActive>true</skewActive>
+            <skewAngle>0.2</skewAngle>
+            <skewAngleDetect>0</skewAngleDetect>
+            <skewScore>0</skewScore>
+            <origFileName>0078.jpg</origFileName>
+            
+            
+            
+            <origWidth>4000</origWidth>
+            <origHeight>6000</origHeight>
+            <pageType>Normal</pageType>
+            <addToAccessFormats>true</addToAccessFormats>
+            <cropBox>
+                <x>1859</x>
+                <y>1828</y>
+                <w>1795</w>
+                <h>3060</h>
+            </cropBox>
+            <pageNumber>62</pageNumber>
+        </page>
+        <page leafNum="79">
+            <handSide>RIGHT</handSide>
+            <rotateDegree>90</rotateDegree>
+            <skewActive>true</skewActive>
+            <skewAngle>1.1</skewAngle>
+            <skewAngleDetect>0</skewAngleDetect>
+            <skewScore>0</skewScore>
+            <origFileName>0079.jpg</origFileName>
+            
+            
+            
+            <origWidth>4000</origWidth>
+            <origHeight>6000</origHeight>
+            <pageType>Normal</pageType>
+            <addToAccessFormats>true</addToAccessFormats>
+            <cropBox>
+                <x>330</x>
+                <y>1860</y>
+                <w>1795</w>
+                <h>3060</h>
+            </cropBox>
+            <pageNumber>63</pageNumber>
+        </page>
+        <page leafNum="80">
+            <handSide>LEFT</handSide>
+            <rotateDegree>-90</rotateDegree>
+            <skewActive>true</skewActive>
+            <skewAngle>0</skewAngle>
+            <skewAngleDetect>0</skewAngleDetect>
+            <skewScore>0</skewScore>
+            <origFileName>0080.jpg</origFileName>
+            
+            
+            
+            <origWidth>4000</origWidth>
+            <origHeight>6000</origHeight>
+            <pageType>Normal</pageType>
+            <addToAccessFormats>true</addToAccessFormats>
+            <cropBox>
+                <x>1867</x>
+                <y>1828</y>
+                <w>1795</w>
+                <h>3060</h>
+            </cropBox>
+            <pageNumber>64</pageNumber>
+        </page>
+        <page leafNum="81">
+            <handSide>RIGHT</handSide>
+            <rotateDegree>90</rotateDegree>
+            <skewActive>true</skewActive>
+            <skewAngle>0</skewAngle>
+            <skewAngleDetect>0</skewAngleDetect>
+            <skewScore>0</skewScore>
+            <origFileName>0081.jpg</origFileName>
+            
+            
+            
+            <origWidth>4000</origWidth>
+            <origHeight>6000</origHeight>
+            <pageType>Normal</pageType>
+            <addToAccessFormats>true</addToAccessFormats>
+            <cropBox>
+                <x>330</x>
+                <y>1893</y>
+                <w>1795</w>
+                <h>3060</h>
+            </cropBox>
+            <pageNumber>65</pageNumber>
+        </page>
+        <page leafNum="82">
+            <handSide>LEFT</handSide>
+            <rotateDegree>-90</rotateDegree>
+            <skewActive>true</skewActive>
+            <skewAngle>0</skewAngle>
+            <skewAngleDetect>0</skewAngleDetect>
+            <skewScore>0</skewScore>
+            <origFileName>0082.jpg</origFileName>
+            
+            
+            
+            <origWidth>4000</origWidth>
+            <origHeight>6000</origHeight>
+            <pageType>Normal</pageType>
+            <addToAccessFormats>true</addToAccessFormats>
+            <cropBox>
+                <x>1867</x>
+                <y>1828</y>
+                <w>1795</w>
+                <h>3060</h>
+            </cropBox>
+            <pageNumber>66</pageNumber>
+        </page>
+        <page leafNum="83">
+            <handSide>RIGHT</handSide>
+            <rotateDegree>90</rotateDegree>
+            <skewActive>true</skewActive>
+            <skewAngle>0</skewAngle>
+            <skewAngleDetect>0</skewAngleDetect>
+            <skewScore>0</skewScore>
+            <origFileName>0083.jpg</origFileName>
+            
+            
+            
+            <origWidth>4000</origWidth>
+            <origHeight>6000</origHeight>
+            <pageType>Normal</pageType>
+            <addToAccessFormats>true</addToAccessFormats>
+            <cropBox>
+                <x>330</x>
+                <y>1893</y>
+                <w>1795</w>
+                <h>3060</h>
+            </cropBox>
+            <pageNumber>67</pageNumber>
+        </page>
+        <page leafNum="84">
+            <handSide>LEFT</handSide>
+            <rotateDegree>-90</rotateDegree>
+            <skewActive>true</skewActive>
+            <skewAngle>0</skewAngle>
+            <skewAngleDetect>0</skewAngleDetect>
+            <skewScore>0</skewScore>
+            <origFileName>0084.jpg</origFileName>
+            
+            
+            
+            <origWidth>4000</origWidth>
+            <origHeight>6000</origHeight>
+            <pageType>Normal</pageType>
+            <addToAccessFormats>true</addToAccessFormats>
+            <cropBox>
+                <x>1867</x>
+                <y>1828</y>
+                <w>1795</w>
+                <h>3060</h>
+            </cropBox>
+            <pageNumber>68</pageNumber>
+        </page>
+        <page leafNum="85">
+            <handSide>RIGHT</handSide>
+            <rotateDegree>90</rotateDegree>
+            <skewActive>true</skewActive>
+            <skewAngle>0</skewAngle>
+            <skewAngleDetect>0</skewAngleDetect>
+            <skewScore>0</skewScore>
+            <origFileName>0085.jpg</origFileName>
+            
+            
+            
+            <origWidth>4000</origWidth>
+            <origHeight>6000</origHeight>
+            <pageType>Normal</pageType>
+            <addToAccessFormats>true</addToAccessFormats>
+            <cropBox>
+                <x>330</x>
+                <y>1893</y>
+                <w>1795</w>
+                <h>3060</h>
+            </cropBox>
+            <pageNumber>69</pageNumber>
+        </page>
+        <page leafNum="86">
+            <handSide>LEFT</handSide>
+            <rotateDegree>-90</rotateDegree>
+            <skewActive>true</skewActive>
+            <skewAngle>0</skewAngle>
+            <skewAngleDetect>0</skewAngleDetect>
+            <skewScore>0</skewScore>
+            <origFileName>0086.jpg</origFileName>
+            
+            
+            
+            <origWidth>4000</origWidth>
+            <origHeight>6000</origHeight>
+            <pageType>Normal</pageType>
+            <addToAccessFormats>true</addToAccessFormats>
+            <cropBox>
+                <x>1867</x>
+                <y>1828</y>
+                <w>1795</w>
+                <h>3060</h>
+            </cropBox>
+            <pageNumber>70</pageNumber>
+        </page>
+        <page leafNum="87">
+            <handSide>RIGHT</handSide>
+            <rotateDegree>90</rotateDegree>
+            <skewActive>true</skewActive>
+            <skewAngle>0</skewAngle>
+            <skewAngleDetect>0</skewAngleDetect>
+            <skewScore>0</skewScore>
+            <origFileName>0087.jpg</origFileName>
+            
+            
+            
+            <origWidth>4000</origWidth>
+            <origHeight>6000</origHeight>
+            <pageType>Normal</pageType>
+            <addToAccessFormats>true</addToAccessFormats>
+            <cropBox>
+                <x>330</x>
+                <y>1893</y>
+                <w>1795</w>
+                <h>3060</h>
+            </cropBox>
+            <pageNumber>71</pageNumber>
+        </page>
+        <page leafNum="88">
+            <handSide>LEFT</handSide>
+            <rotateDegree>-90</rotateDegree>
+            <skewActive>true</skewActive>
+            <skewAngle>0</skewAngle>
+            <skewAngleDetect>0</skewAngleDetect>
+            <skewScore>0</skewScore>
+            <origFileName>0088.jpg</origFileName>
+            
+            
+            
+            <origWidth>4000</origWidth>
+            <origHeight>6000</origHeight>
+            <pageType>Normal</pageType>
+            <addToAccessFormats>true</addToAccessFormats>
+            <cropBox>
+                <x>1867</x>
+                <y>1828</y>
+                <w>1795</w>
+                <h>3060</h>
+            </cropBox>
+            <pageNumber>72</pageNumber>
+        </page>
+        <page leafNum="89">
+            <handSide>RIGHT</handSide>
+            <rotateDegree>90</rotateDegree>
+            <skewActive>true</skewActive>
+            <skewAngle>0</skewAngle>
+            <skewAngleDetect>0</skewAngleDetect>
+            <skewScore>0</skewScore>
+            <origFileName>0089.jpg</origFileName>
+            
+            
+            
+            <origWidth>4000</origWidth>
+            <origHeight>6000</origHeight>
+            <pageType>Normal</pageType>
+            <addToAccessFormats>true</addToAccessFormats>
+            <cropBox>
+                <x>330</x>
+                <y>1893</y>
+                <w>1795</w>
+                <h>3060</h>
+            </cropBox>
+            <pageNumber>73</pageNumber>
+        </page>
+        <page leafNum="90">
+            <handSide>LEFT</handSide>
+            <rotateDegree>-90</rotateDegree>
+            <skewActive>true</skewActive>
+            <skewAngle>0</skewAngle>
+            <skewAngleDetect>0</skewAngleDetect>
+            <skewScore>0</skewScore>
+            <origFileName>0090.jpg</origFileName>
+            
+            
+            
+            <origWidth>4000</origWidth>
+            <origHeight>6000</origHeight>
+            <pageType>Normal</pageType>
+            <addToAccessFormats>true</addToAccessFormats>
+            <cropBox>
+                <x>1867</x>
+                <y>1828</y>
+                <w>1795</w>
+                <h>3060</h>
+            </cropBox>
+            <pageNumber>74</pageNumber>
+        </page>
+        <page leafNum="91">
+            <handSide>RIGHT</handSide>
+            <rotateDegree>90</rotateDegree>
+            <skewActive>true</skewActive>
+            <skewAngle>0</skewAngle>
+            <skewAngleDetect>0</skewAngleDetect>
+            <skewScore>0</skewScore>
+            <origFileName>0091.jpg</origFileName>
+            
+            
+            
+            <origWidth>4000</origWidth>
+            <origHeight>6000</origHeight>
+            <pageType>Normal</pageType>
+            <addToAccessFormats>true</addToAccessFormats>
+            <cropBox>
+                <x>330</x>
+                <y>1893</y>
+                <w>1795</w>
+                <h>3060</h>
+            </cropBox>
+            <pageNumber>75</pageNumber>
+        </page>
+        <page leafNum="92">
+            <handSide>LEFT</handSide>
+            <rotateDegree>-90</rotateDegree>
+            <skewActive>true</skewActive>
+            <skewAngle>0</skewAngle>
+            <skewAngleDetect>0</skewAngleDetect>
+            <skewScore>0</skewScore>
+            <origFileName>0092.jpg</origFileName>
+            
+            
+            
+            <origWidth>4000</origWidth>
+            <origHeight>6000</origHeight>
+            <pageType>Normal</pageType>
+            <addToAccessFormats>true</addToAccessFormats>
+            <cropBox>
+                <x>1867</x>
+                <y>1828</y>
+                <w>1795</w>
+                <h>3060</h>
+            </cropBox>
+            <pageNumber>76</pageNumber>
+        </page>
+        <page leafNum="93">
+            <handSide>RIGHT</handSide>
+            <rotateDegree>90</rotateDegree>
+            <skewActive>true</skewActive>
+            <skewAngle>0</skewAngle>
+            <skewAngleDetect>0</skewAngleDetect>
+            <skewScore>0</skewScore>
+            <origFileName>0093.jpg</origFileName>
+            
+            
+            
+            <origWidth>4000</origWidth>
+            <origHeight>6000</origHeight>
+            <pageType>Normal</pageType>
+            <addToAccessFormats>true</addToAccessFormats>
+            <cropBox>
+                <x>330</x>
+                <y>1893</y>
+                <w>1795</w>
+                <h>3060</h>
+            </cropBox>
+            <pageNumber>77</pageNumber>
+        </page>
+        <page leafNum="94">
+            <handSide>LEFT</handSide>
+            <rotateDegree>-90</rotateDegree>
+            <skewActive>true</skewActive>
+            <skewAngle>0</skewAngle>
+            <skewAngleDetect>0</skewAngleDetect>
+            <skewScore>0</skewScore>
+            <origFileName>0094.jpg</origFileName>
+            
+            
+            
+            <origWidth>4000</origWidth>
+            <origHeight>6000</origHeight>
+            <pageType>Normal</pageType>
+            <addToAccessFormats>true</addToAccessFormats>
+            <cropBox>
+                <x>1867</x>
+                <y>1828</y>
+                <w>1795</w>
+                <h>3060</h>
+            </cropBox>
+            <pageNumber>78</pageNumber>
+        </page>
+        <page leafNum="95">
+            <handSide>RIGHT</handSide>
+            <rotateDegree>90</rotateDegree>
+            <skewActive>true</skewActive>
+            <skewAngle>0</skewAngle>
+            <skewAngleDetect>0</skewAngleDetect>
+            <skewScore>0</skewScore>
+            <origFileName>0095.jpg</origFileName>
+            
+            
+            
+            <origWidth>4000</origWidth>
+            <origHeight>6000</origHeight>
+            <pageType>Normal</pageType>
+            <addToAccessFormats>true</addToAccessFormats>
+            <cropBox>
+                <x>330</x>
+                <y>1893</y>
+                <w>1795</w>
+                <h>3060</h>
+            </cropBox>
+            <pageNumber>79</pageNumber>
+        </page>
+        <page leafNum="96">
+            <handSide>LEFT</handSide>
+            <rotateDegree>-90</rotateDegree>
+            <skewActive>true</skewActive>
+            <skewAngle>0</skewAngle>
+            <skewAngleDetect>0</skewAngleDetect>
+            <skewScore>0</skewScore>
+            <origFileName>0096.jpg</origFileName>
+            
+            
+            
+            <origWidth>4000</origWidth>
+            <origHeight>6000</origHeight>
+            <pageType>Normal</pageType>
+            <addToAccessFormats>true</addToAccessFormats>
+            <cropBox>
+                <x>1867</x>
+                <y>1828</y>
+                <w>1795</w>
+                <h>3060</h>
+            </cropBox>
+            <pageNumber>80</pageNumber>
+        </page>
+        <page leafNum="97">
+            <handSide>RIGHT</handSide>
+            <rotateDegree>90</rotateDegree>
+            <skewActive>true</skewActive>
+            <skewAngle>0</skewAngle>
+            <skewAngleDetect>0</skewAngleDetect>
+            <skewScore>0</skewScore>
+            <origFileName>0097.jpg</origFileName>
+            
+            
+            
+            <origWidth>4000</origWidth>
+            <origHeight>6000</origHeight>
+            <pageType>Normal</pageType>
+            <addToAccessFormats>true</addToAccessFormats>
+            <cropBox>
+                <x>330</x>
+                <y>1893</y>
+                <w>1795</w>
+                <h>3060</h>
+            </cropBox>
+            <pageNumber>81</pageNumber>
+        </page>
+        <page leafNum="98">
+            <handSide>LEFT</handSide>
+            <rotateDegree>-90</rotateDegree>
+            <skewActive>true</skewActive>
+            <skewAngle>0</skewAngle>
+            <skewAngleDetect>0</skewAngleDetect>
+            <skewScore>0</skewScore>
+            <origFileName>0098.jpg</origFileName>
+            
+            
+            
+            <origWidth>4000</origWidth>
+            <origHeight>6000</origHeight>
+            <pageType>Normal</pageType>
+            <addToAccessFormats>true</addToAccessFormats>
+            <cropBox>
+                <x>1867</x>
+                <y>1828</y>
+                <w>1795</w>
+                <h>3060</h>
+            </cropBox>
+            <pageNumber>82</pageNumber>
+        </page>
+        <page leafNum="99">
+            <handSide>RIGHT</handSide>
+            <rotateDegree>90</rotateDegree>
+            <skewActive>true</skewActive>
+            <skewAngle>0</skewAngle>
+            <skewAngleDetect>0</skewAngleDetect>
+            <skewScore>0</skewScore>
+            <origFileName>0099.jpg</origFileName>
+            
+            
+            
+            <origWidth>4000</origWidth>
+            <origHeight>6000</origHeight>
+            <pageType>Normal</pageType>
+            <addToAccessFormats>true</addToAccessFormats>
+            <cropBox>
+                <x>330</x>
+                <y>1893</y>
+                <w>1795</w>
+                <h>3060</h>
+            </cropBox>
+            <pageNumber>83</pageNumber>
+        </page>
+        <page leafNum="100">
+            <handSide>LEFT</handSide>
+            <rotateDegree>-90</rotateDegree>
+            <skewActive>true</skewActive>
+            <skewAngle>0.4</skewAngle>
+            <skewAngleDetect>0</skewAngleDetect>
+            <skewScore>0</skewScore>
+            <origFileName>0100.jpg</origFileName>
+            
+            
+            
+            <origWidth>4000</origWidth>
+            <origHeight>6000</origHeight>
+            <pageType>Normal</pageType>
+            <addToAccessFormats>true</addToAccessFormats>
+            <cropBox>
+                <x>1867</x>
+                <y>1828</y>
+                <w>1795</w>
+                <h>3060</h>
+            </cropBox>
+            <pageNumber>84</pageNumber>
+        </page>
+        <page leafNum="101">
+            <handSide>RIGHT</handSide>
+            <rotateDegree>90</rotateDegree>
+            <skewActive>true</skewActive>
+            <skewAngle>1</skewAngle>
+            <skewAngleDetect>0</skewAngleDetect>
+            <skewScore>0</skewScore>
+            <origFileName>0101.jpg</origFileName>
+            
+            
+            
+            <origWidth>4000</origWidth>
+            <origHeight>6000</origHeight>
+            <pageType>Normal</pageType>
+            <addToAccessFormats>true</addToAccessFormats>
+            <cropBox>
+                <x>330</x>
+                <y>1893</y>
+                <w>1795</w>
+                <h>3060</h>
+            </cropBox>
+            <pageNumber>85</pageNumber>
+        </page>
+        <page leafNum="102">
+            <handSide>LEFT</handSide>
+            <rotateDegree>-90</rotateDegree>
+            <skewActive>true</skewActive>
+            <skewAngle>-0.3</skewAngle>
+            <skewAngleDetect>0</skewAngleDetect>
+            <skewScore>0</skewScore>
+            <origFileName>0102.jpg</origFileName>
+            
+            
+            
+            <origWidth>4000</origWidth>
+            <origHeight>6000</origHeight>
+            <pageType>Normal</pageType>
+            <addToAccessFormats>true</addToAccessFormats>
+            <cropBox>
+                <x>1867</x>
+                <y>1828</y>
+                <w>1795</w>
+                <h>3060</h>
+            </cropBox>
+            <pageNumber>86</pageNumber>
+        </page>
+        <page leafNum="103">
+            <handSide>RIGHT</handSide>
+            <rotateDegree>90</rotateDegree>
+            <skewActive>true</skewActive>
+            <skewAngle>0.4</skewAngle>
+            <skewAngleDetect>0</skewAngleDetect>
+            <skewScore>0</skewScore>
+            <origFileName>0103.jpg</origFileName>
+            
+            
+            
+            <origWidth>4000</origWidth>
+            <origHeight>6000</origHeight>
+            <pageType>Normal</pageType>
+            <addToAccessFormats>true</addToAccessFormats>
+            <cropBox>
+                <x>330</x>
+                <y>1893</y>
+                <w>1795</w>
+                <h>3060</h>
+            </cropBox>
+            <pageNumber>87</pageNumber>
+        </page>
+        <page leafNum="104">
+            <handSide>LEFT</handSide>
+            <rotateDegree>-90</rotateDegree>
+            <skewActive>true</skewActive>
+            <skewAngle>-0.3</skewAngle>
+            <skewAngleDetect>0</skewAngleDetect>
+            <skewScore>0</skewScore>
+            <origFileName>0104.jpg</origFileName>
+            
+            
+            
+            <origWidth>4000</origWidth>
+            <origHeight>6000</origHeight>
+            <pageType>Normal</pageType>
+            <addToAccessFormats>true</addToAccessFormats>
+            <cropBox>
+                <x>1867</x>
+                <y>1828</y>
+                <w>1795</w>
+                <h>3060</h>
+            </cropBox>
+            <pageNumber>88</pageNumber>
+        </page>
+        <page leafNum="105">
+            <handSide>RIGHT</handSide>
+            <rotateDegree>90</rotateDegree>
+            <skewActive>true</skewActive>
+            <skewAngle>0.4</skewAngle>
+            <skewAngleDetect>0</skewAngleDetect>
+            <skewScore>0</skewScore>
+            <origFileName>0105.jpg</origFileName>
+            
+            
+            
+            <origWidth>4000</origWidth>
+            <origHeight>6000</origHeight>
+            <pageType>Normal</pageType>
+            <addToAccessFormats>true</addToAccessFormats>
+            <cropBox>
+                <x>330</x>
+                <y>1893</y>
+                <w>1795</w>
+                <h>3060</h>
+            </cropBox>
+            <pageNumber>89</pageNumber>
+        </page>
+        <page leafNum="106">
+            <handSide>LEFT</handSide>
+            <rotateDegree>-90</rotateDegree>
+            <skewActive>true</skewActive>
+            <skewAngle>-0.3</skewAngle>
+            <skewAngleDetect>0</skewAngleDetect>
+            <skewScore>0</skewScore>
+            <origFileName>0106.jpg</origFileName>
+            
+            
+            
+            <origWidth>4000</origWidth>
+            <origHeight>6000</origHeight>
+            <pageType>Normal</pageType>
+            <addToAccessFormats>true</addToAccessFormats>
+            <cropBox>
+                <x>1867</x>
+                <y>1828</y>
+                <w>1795</w>
+                <h>3060</h>
+            </cropBox>
+            <pageNumber>90</pageNumber>
+        </page>
+        <page leafNum="107">
+            <handSide>RIGHT</handSide>
+            <rotateDegree>90</rotateDegree>
+            <skewActive>true</skewActive>
+            <skewAngle>0.4</skewAngle>
+            <skewAngleDetect>0</skewAngleDetect>
+            <skewScore>0</skewScore>
+            <origFileName>0107.jpg</origFileName>
+            
+            
+            
+            <origWidth>4000</origWidth>
+            <origHeight>6000</origHeight>
+            <pageType>Normal</pageType>
+            <addToAccessFormats>true</addToAccessFormats>
+            <cropBox>
+                <x>330</x>
+                <y>1893</y>
+                <w>1795</w>
+                <h>3060</h>
+            </cropBox>
+            <pageNumber>91</pageNumber>
+        </page>
+        <page leafNum="108">
+            <handSide>LEFT</handSide>
+            <rotateDegree>-90</rotateDegree>
+            <skewActive>true</skewActive>
+            <skewAngle>0.2</skewAngle>
+            <skewAngleDetect>0</skewAngleDetect>
+            <skewScore>0</skewScore>
+            <origFileName>0108.jpg</origFileName>
+            
+            
+            
+            <origWidth>4000</origWidth>
+            <origHeight>6000</origHeight>
+            <pageType>Normal</pageType>
+            <addToAccessFormats>true</addToAccessFormats>
+            <cropBox>
+                <x>1867</x>
+                <y>1844</y>
+                <w>1795</w>
+                <h>3060</h>
+            </cropBox>
+            <pageNumber>92</pageNumber>
+        </page>
+        <page leafNum="109">
+            <handSide>RIGHT</handSide>
+            <rotateDegree>90</rotateDegree>
+            <skewActive>true</skewActive>
+            <skewAngle>0.4</skewAngle>
+            <skewAngleDetect>0</skewAngleDetect>
+            <skewScore>0</skewScore>
+            <origFileName>0109.jpg</origFileName>
+            
+            
+            
+            <origWidth>4000</origWidth>
+            <origHeight>6000</origHeight>
+            <pageType>Normal</pageType>
+            <addToAccessFormats>true</addToAccessFormats>
+            <cropBox>
+                <x>330</x>
+                <y>1893</y>
+                <w>1795</w>
+                <h>3060</h>
+            </cropBox>
+            <pageNumber>93</pageNumber>
+        </page>
+        <page leafNum="110">
+            <handSide>LEFT</handSide>
+            <rotateDegree>-90</rotateDegree>
+            <skewActive>true</skewActive>
+            <skewAngle>0.2</skewAngle>
+            <skewAngleDetect>0</skewAngleDetect>
+            <skewScore>0</skewScore>
+            <origFileName>0110.jpg</origFileName>
+            
+            
+            
+            <origWidth>4000</origWidth>
+            <origHeight>6000</origHeight>
+            <pageType>Normal</pageType>
+            <addToAccessFormats>true</addToAccessFormats>
+            <cropBox>
+                <x>1867</x>
+                <y>1828</y>
+                <w>1795</w>
+                <h>3060</h>
+            </cropBox>
+            <pageNumber>94</pageNumber>
+        </page>
+        <page leafNum="111">
+            <handSide>RIGHT</handSide>
+            <rotateDegree>90</rotateDegree>
+            <skewActive>true</skewActive>
+            <skewAngle>0.4</skewAngle>
+            <skewAngleDetect>0</skewAngleDetect>
+            <skewScore>0</skewScore>
+            <origFileName>0111.jpg</origFileName>
+            
+            
+            
+            <origWidth>4000</origWidth>
+            <origHeight>6000</origHeight>
+            <pageType>Normal</pageType>
+            <addToAccessFormats>true</addToAccessFormats>
+            <cropBox>
+                <x>330</x>
+                <y>1893</y>
+                <w>1795</w>
+                <h>3060</h>
+            </cropBox>
+            <pageNumber>95</pageNumber>
+        </page>
+        <page leafNum="112">
+            <handSide>LEFT</handSide>
+            <rotateDegree>-90</rotateDegree>
+            <skewActive>true</skewActive>
+            <skewAngle>0.2</skewAngle>
+            <skewAngleDetect>0</skewAngleDetect>
+            <skewScore>0</skewScore>
+            <origFileName>0112.jpg</origFileName>
+            
+            
+            
+            <origWidth>4000</origWidth>
+            <origHeight>6000</origHeight>
+            <pageType>Normal</pageType>
+            <addToAccessFormats>true</addToAccessFormats>
+            <cropBox>
+                <x>1867</x>
+                <y>1828</y>
+                <w>1795</w>
+                <h>3060</h>
+            </cropBox>
+            <pageNumber>96</pageNumber>
+        </page>
+        <page leafNum="113">
+            <handSide>RIGHT</handSide>
+            <rotateDegree>90</rotateDegree>
+            <skewActive>true</skewActive>
+            <skewAngle>-0.1</skewAngle>
+            <skewAngleDetect>0</skewAngleDetect>
+            <skewScore>0</skewScore>
+            <origFileName>0113.jpg</origFileName>
+            
+            
+            
+            <origWidth>4000</origWidth>
+            <origHeight>6000</origHeight>
+            <pageType>Normal</pageType>
+            <addToAccessFormats>true</addToAccessFormats>
+            <cropBox>
+                <x>330</x>
+                <y>1893</y>
+                <w>1795</w>
+                <h>3060</h>
+            </cropBox>
+            <pageNumber>97</pageNumber>
+        </page>
+        <page leafNum="114">
+            <handSide>LEFT</handSide>
+            <rotateDegree>-90</rotateDegree>
+            <skewActive>true</skewActive>
+            <skewAngle>1.3</skewAngle>
+            <skewAngleDetect>0</skewAngleDetect>
+            <skewScore>0</skewScore>
+            <origFileName>0114.jpg</origFileName>
+            
+            
+            
+            <origWidth>4000</origWidth>
+            <origHeight>6000</origHeight>
+            <pageType>Normal</pageType>
+            <addToAccessFormats>true</addToAccessFormats>
+            <cropBox>
+                <x>1867</x>
+                <y>1844</y>
+                <w>1779</w>
+                <h>3028</h>
+            </cropBox>
+            <pageNumber>98</pageNumber>
+        </page>
+        <page leafNum="115">
+            <handSide>RIGHT</handSide>
+            <rotateDegree>90</rotateDegree>
+            <skewActive>true</skewActive>
+            <skewAngle>-0.5</skewAngle>
+            <skewAngleDetect>0</skewAngleDetect>
+            <skewScore>0</skewScore>
+            <origFileName>0115.jpg</origFileName>
+            
+            
+            
+            <origWidth>4000</origWidth>
+            <origHeight>6000</origHeight>
+            <pageType>Normal</pageType>
+            <addToAccessFormats>true</addToAccessFormats>
+            <cropBox>
+                <x>330</x>
+                <y>1893</y>
+                <w>1795</w>
+                <h>3060</h>
+            </cropBox>
+            <pageNumber>99</pageNumber>
+        </page>
+        <page leafNum="116">
+            <handSide>LEFT</handSide>
+            <rotateDegree>-90</rotateDegree>
+            <skewActive>true</skewActive>
+            <skewAngle>1.3</skewAngle>
+            <skewAngleDetect>0</skewAngleDetect>
+            <skewScore>0</skewScore>
+            <origFileName>0116.jpg</origFileName>
+            
+            
+            
+            <origWidth>4000</origWidth>
+            <origHeight>6000</origHeight>
+            <pageType>Normal</pageType>
+            <addToAccessFormats>true</addToAccessFormats>
+            <cropBox>
+                <x>1867</x>
+                <y>1844</y>
+                <w>1779</w>
+                <h>3028</h>
+            </cropBox>
+            <pageNumber>100</pageNumber>
+        </page>
+        <page leafNum="117">
+            <handSide>RIGHT</handSide>
+            <rotateDegree>90</rotateDegree>
+            <skewActive>true</skewActive>
+            <skewAngle>0.4</skewAngle>
+            <skewAngleDetect>0</skewAngleDetect>
+            <skewScore>0</skewScore>
+            <origFileName>0117.jpg</origFileName>
+            
+            
+            
+            <origWidth>4000</origWidth>
+            <origHeight>6000</origHeight>
+            <pageType>Normal</pageType>
+            <addToAccessFormats>true</addToAccessFormats>
+            <cropBox>
+                <x>330</x>
+                <y>1893</y>
+                <w>1795</w>
+                <h>3060</h>
+            </cropBox>
+            <pageNumber>101</pageNumber>
+        </page>
+        <page leafNum="118">
+            <handSide>LEFT</handSide>
+            <rotateDegree>-90</rotateDegree>
+            <skewActive>true</skewActive>
+            <skewAngle>0.5</skewAngle>
+            <skewAngleDetect>0</skewAngleDetect>
+            <skewScore>0</skewScore>
+            <origFileName>0118.jpg</origFileName>
+            
+            
+            
+            <origWidth>4000</origWidth>
+            <origHeight>6000</origHeight>
+            <pageType>Normal</pageType>
+            <addToAccessFormats>true</addToAccessFormats>
+            <cropBox>
+                <x>1867</x>
+                <y>1844</y>
+                <w>1779</w>
+                <h>3028</h>
+            </cropBox>
+            <pageNumber>102</pageNumber>
+        </page>
+        <page leafNum="119">
+            <handSide>RIGHT</handSide>
+            <rotateDegree>90</rotateDegree>
+            <skewActive>true</skewActive>
+            <skewAngle>0.4</skewAngle>
+            <skewAngleDetect>0</skewAngleDetect>
+            <skewScore>0</skewScore>
+            <origFileName>0119.jpg</origFileName>
+            
+            
+            
+            <origWidth>4000</origWidth>
+            <origHeight>6000</origHeight>
+            <pageType>Normal</pageType>
+            <addToAccessFormats>true</addToAccessFormats>
+            <cropBox>
+                <x>330</x>
+                <y>1893</y>
+                <w>1795</w>
+                <h>3060</h>
+            </cropBox>
+            <pageNumber>103</pageNumber>
+        </page>
+        <page leafNum="120">
+            <handSide>LEFT</handSide>
+            <rotateDegree>-90</rotateDegree>
+            <skewActive>true</skewActive>
+            <skewAngle>0.5</skewAngle>
+            <skewAngleDetect>0</skewAngleDetect>
+            <skewScore>0</skewScore>
+            <origFileName>0120.jpg</origFileName>
+            
+            
+            
+            <origWidth>4000</origWidth>
+            <origHeight>6000</origHeight>
+            <pageType>Normal</pageType>
+            <addToAccessFormats>true</addToAccessFormats>
+            <cropBox>
+                <x>1867</x>
+                <y>1844</y>
+                <w>1779</w>
+                <h>3028</h>
+            </cropBox>
+            <pageNumber>104</pageNumber>
+        </page>
+        <page leafNum="121">
+            <handSide>RIGHT</handSide>
+            <rotateDegree>90</rotateDegree>
+            <skewActive>true</skewActive>
+            <skewAngle>0.4</skewAngle>
+            <skewAngleDetect>0</skewAngleDetect>
+            <skewScore>0</skewScore>
+            <origFileName>0121.jpg</origFileName>
+            
+            
+            
+            <origWidth>4000</origWidth>
+            <origHeight>6000</origHeight>
+            <pageType>Normal</pageType>
+            <addToAccessFormats>true</addToAccessFormats>
+            <cropBox>
+                <x>330</x>
+                <y>1893</y>
+                <w>1795</w>
+                <h>3060</h>
+            </cropBox>
+            <pageNumber>105</pageNumber>
+        </page>
+        <page leafNum="122">
+            <handSide>LEFT</handSide>
+            <rotateDegree>-90</rotateDegree>
+            <skewActive>true</skewActive>
+            <skewAngle>0.5</skewAngle>
+            <skewAngleDetect>0</skewAngleDetect>
+            <skewScore>0</skewScore>
+            <origFileName>0122.jpg</origFileName>
+            
+            
+            
+            <origWidth>4000</origWidth>
+            <origHeight>6000</origHeight>
+            <pageType>Normal</pageType>
+            <addToAccessFormats>true</addToAccessFormats>
+            <cropBox>
+                <x>1867</x>
+                <y>1844</y>
+                <w>1779</w>
+                <h>3028</h>
+            </cropBox>
+            <pageNumber>106</pageNumber>
+        </page>
+        <page leafNum="123">
+            <handSide>RIGHT</handSide>
+            <rotateDegree>90</rotateDegree>
+            <skewActive>true</skewActive>
+            <skewAngle>0.4</skewAngle>
+            <skewAngleDetect>0</skewAngleDetect>
+            <skewScore>0</skewScore>
+            <origFileName>0123.jpg</origFileName>
+            
+            
+            
+            <origWidth>4000</origWidth>
+            <origHeight>6000</origHeight>
+            <pageType>Normal</pageType>
+            <addToAccessFormats>true</addToAccessFormats>
+            <cropBox>
+                <x>330</x>
+                <y>1893</y>
+                <w>1795</w>
+                <h>3060</h>
+            </cropBox>
+            <pageNumber>107</pageNumber>
+        </page>
+        <page leafNum="124">
+            <handSide>LEFT</handSide>
+            <rotateDegree>-90</rotateDegree>
+            <skewActive>true</skewActive>
+            <skewAngle>-0.6</skewAngle>
+            <skewAngleDetect>0</skewAngleDetect>
+            <skewScore>0</skewScore>
+            <origFileName>0124.jpg</origFileName>
+            
+            
+            
+            <origWidth>4000</origWidth>
+            <origHeight>6000</origHeight>
+            <pageType>Normal</pageType>
+            <addToAccessFormats>true</addToAccessFormats>
+            <cropBox>
+                <x>1867</x>
+                <y>1844</y>
+                <w>1779</w>
+                <h>3028</h>
+            </cropBox>
+            <pageNumber>108</pageNumber>
+        </page>
+        <page leafNum="125">
+            <handSide>RIGHT</handSide>
+            <rotateDegree>90</rotateDegree>
+            <skewActive>true</skewActive>
+            <skewAngle>0.4</skewAngle>
+            <skewAngleDetect>0</skewAngleDetect>
+            <skewScore>0</skewScore>
+            <origFileName>0125.jpg</origFileName>
+            
+            
+            
+            <origWidth>4000</origWidth>
+            <origHeight>6000</origHeight>
+            <pageType>Normal</pageType>
+            <addToAccessFormats>true</addToAccessFormats>
+            <cropBox>
+                <x>330</x>
+                <y>1893</y>
+                <w>1795</w>
+                <h>3060</h>
+            </cropBox>
+            <pageNumber>109</pageNumber>
+        </page>
+        <page leafNum="126">
+            <handSide>LEFT</handSide>
+            <rotateDegree>-90</rotateDegree>
+            <skewActive>true</skewActive>
+            <skewAngle>-0.6</skewAngle>
+            <skewAngleDetect>0</skewAngleDetect>
+            <skewScore>0</skewScore>
+            <origFileName>0126.jpg</origFileName>
+            
+            
+            
+            <origWidth>4000</origWidth>
+            <origHeight>6000</origHeight>
+            <pageType>Normal</pageType>
+            <addToAccessFormats>true</addToAccessFormats>
+            <cropBox>
+                <x>1875</x>
+                <y>1828</y>
+                <w>1779</w>
+                <h>3028</h>
+            </cropBox>
+            <pageNumber>110</pageNumber>
+        </page>
+        <page leafNum="127">
+            <handSide>RIGHT</handSide>
+            <rotateDegree>90</rotateDegree>
+            <skewActive>true</skewActive>
+            <skewAngle>0.4</skewAngle>
+            <skewAngleDetect>0</skewAngleDetect>
+            <skewScore>0</skewScore>
+            <origFileName>0127.jpg</origFileName>
+            
+            
+            
+            <origWidth>4000</origWidth>
+            <origHeight>6000</origHeight>
+            <pageType>Normal</pageType>
+            <addToAccessFormats>true</addToAccessFormats>
+            <cropBox>
+                <x>330</x>
+                <y>1893</y>
+                <w>1795</w>
+                <h>3060</h>
+            </cropBox>
+            <pageNumber>111</pageNumber>
+        </page>
+        <page leafNum="128">
+            <handSide>LEFT</handSide>
+            <rotateDegree>-90</rotateDegree>
+            <skewActive>true</skewActive>
+            <skewAngle>0</skewAngle>
+            <skewAngleDetect>0</skewAngleDetect>
+            <skewScore>0</skewScore>
+            <origFileName>0128.jpg</origFileName>
+            
+            
+            
+            <origWidth>4000</origWidth>
+            <origHeight>6000</origHeight>
+            <pageType>Normal</pageType>
+            <addToAccessFormats>true</addToAccessFormats>
+            <cropBox>
+                <x>1899</x>
+                <y>1836</y>
+                <w>1779</w>
+                <h>3028</h>
+            </cropBox>
+            <pageNumber>112</pageNumber>
+        </page>
+        <page leafNum="129">
+            <handSide>RIGHT</handSide>
+            <rotateDegree>90</rotateDegree>
+            <skewActive>true</skewActive>
+            <skewAngle>0.4</skewAngle>
+            <skewAngleDetect>0</skewAngleDetect>
+            <skewScore>0</skewScore>
+            <origFileName>0129.jpg</origFileName>
+            
+            
+            
+            <origWidth>4000</origWidth>
+            <origHeight>6000</origHeight>
+            <pageType>Normal</pageType>
+            <addToAccessFormats>true</addToAccessFormats>
+            <cropBox>
+                <x>330</x>
+                <y>1893</y>
+                <w>1795</w>
+                <h>3060</h>
+            </cropBox>
+            <pageNumber>113</pageNumber>
+        </page>
+        <page leafNum="130">
+            <handSide>LEFT</handSide>
+            <rotateDegree>-90</rotateDegree>
+            <skewActive>true</skewActive>
+            <skewAngle>0.7</skewAngle>
+            <skewAngleDetect>0</skewAngleDetect>
+            <skewScore>0</skewScore>
+            <origFileName>0130.jpg</origFileName>
+            
+            
+            
+            <origWidth>4000</origWidth>
+            <origHeight>6000</origHeight>
+            <pageType>Normal</pageType>
+            <addToAccessFormats>true</addToAccessFormats>
+            <cropBox>
+                <x>1899</x>
+                <y>1836</y>
+                <w>1779</w>
+                <h>3028</h>
+            </cropBox>
+            <pageNumber>114</pageNumber>
+        </page>
+        <page leafNum="131">
+            <handSide>RIGHT</handSide>
+            <rotateDegree>90</rotateDegree>
+            <skewActive>true</skewActive>
+            <skewAngle>0.4</skewAngle>
+            <skewAngleDetect>0</skewAngleDetect>
+            <skewScore>0</skewScore>
+            <origFileName>0131.jpg</origFileName>
+            
+            
+            
+            <origWidth>4000</origWidth>
+            <origHeight>6000</origHeight>
+            <pageType>Normal</pageType>
+            <addToAccessFormats>true</addToAccessFormats>
+            <cropBox>
+                <x>330</x>
+                <y>1893</y>
+                <w>1795</w>
+                <h>3060</h>
+            </cropBox>
+            <pageNumber>115</pageNumber>
+        </page>
+        <page leafNum="132">
+            <handSide>LEFT</handSide>
+            <rotateDegree>-90</rotateDegree>
+            <skewActive>true</skewActive>
+            <skewAngle>0.7</skewAngle>
+            <skewAngleDetect>0</skewAngleDetect>
+            <skewScore>0</skewScore>
+            <origFileName>0132.jpg</origFileName>
+            
+            
+            
+            <origWidth>4000</origWidth>
+            <origHeight>6000</origHeight>
+            <pageType>Normal</pageType>
+            <addToAccessFormats>true</addToAccessFormats>
+            <cropBox>
+                <x>1899</x>
+                <y>1836</y>
+                <w>1779</w>
+                <h>3028</h>
+            </cropBox>
+            <pageNumber>116</pageNumber>
+        </page>
+        <page leafNum="133">
+            <handSide>RIGHT</handSide>
+            <rotateDegree>90</rotateDegree>
+            <skewActive>true</skewActive>
+            <skewAngle>0.4</skewAngle>
+            <skewAngleDetect>0</skewAngleDetect>
+            <skewScore>0</skewScore>
+            <origFileName>0133.jpg</origFileName>
+            
+            
+            
+            <origWidth>4000</origWidth>
+            <origHeight>6000</origHeight>
+            <pageType>Normal</pageType>
+            <addToAccessFormats>true</addToAccessFormats>
+            <cropBox>
+                <x>330</x>
+                <y>1893</y>
+                <w>1795</w>
+                <h>3060</h>
+            </cropBox>
+            <pageNumber>117</pageNumber>
+        </page>
+        <page leafNum="134">
+            <handSide>LEFT</handSide>
+            <rotateDegree>-90</rotateDegree>
+            <skewActive>true</skewActive>
+            <skewAngle>0.7</skewAngle>
+            <skewAngleDetect>0</skewAngleDetect>
+            <skewScore>0</skewScore>
+            <origFileName>0134.jpg</origFileName>
+            
+            
+            
+            <origWidth>4000</origWidth>
+            <origHeight>6000</origHeight>
+            <pageType>Normal</pageType>
+            <addToAccessFormats>true</addToAccessFormats>
+            <cropBox>
+                <x>1899</x>
+                <y>1836</y>
+                <w>1779</w>
+                <h>3028</h>
+            </cropBox>
+            <pageNumber>118</pageNumber>
+        </page>
+        <page leafNum="135">
+            <handSide>RIGHT</handSide>
+            <rotateDegree>90</rotateDegree>
+            <skewActive>true</skewActive>
+            <skewAngle>0.4</skewAngle>
+            <skewAngleDetect>0</skewAngleDetect>
+            <skewScore>0</skewScore>
+            <origFileName>0135.jpg</origFileName>
+            
+            
+            
+            <origWidth>4000</origWidth>
+            <origHeight>6000</origHeight>
+            <pageType>Normal</pageType>
+            <addToAccessFormats>true</addToAccessFormats>
+            <cropBox>
+                <x>330</x>
+                <y>1893</y>
+                <w>1795</w>
+                <h>3060</h>
+            </cropBox>
+            <pageNumber>119</pageNumber>
+        </page>
+        <page leafNum="136">
+            <handSide>LEFT</handSide>
+            <rotateDegree>-90</rotateDegree>
+            <skewActive>true</skewActive>
+            <skewAngle>0.7</skewAngle>
+            <skewAngleDetect>0</skewAngleDetect>
+            <skewScore>0</skewScore>
+            <origFileName>0136.jpg</origFileName>
+            
+            
+            
+            <origWidth>4000</origWidth>
+            <origHeight>6000</origHeight>
+            <pageType>Normal</pageType>
+            <addToAccessFormats>true</addToAccessFormats>
+            <cropBox>
+                <x>1899</x>
+                <y>1836</y>
+                <w>1779</w>
+                <h>3028</h>
+            </cropBox>
+            <pageNumber>120</pageNumber>
+        </page>
+        <page leafNum="137">
+            <handSide>RIGHT</handSide>
+            <rotateDegree>90</rotateDegree>
+            <skewActive>true</skewActive>
+            <skewAngle>0.4</skewAngle>
+            <skewAngleDetect>0</skewAngleDetect>
+            <skewScore>0</skewScore>
+            <origFileName>0137.jpg</origFileName>
+            
+            
+            
+            <origWidth>4000</origWidth>
+            <origHeight>6000</origHeight>
+            <pageType>Normal</pageType>
+            <addToAccessFormats>true</addToAccessFormats>
+            <cropBox>
+                <x>330</x>
+                <y>1893</y>
+                <w>1795</w>
+                <h>3060</h>
+            </cropBox>
+            <pageNumber>121</pageNumber>
+        </page>
+        <page leafNum="138">
+            <handSide>LEFT</handSide>
+            <rotateDegree>-90</rotateDegree>
+            <skewActive>true</skewActive>
+            <skewAngle>0.7</skewAngle>
+            <skewAngleDetect>0</skewAngleDetect>
+            <skewScore>0</skewScore>
+            <origFileName>0138.jpg</origFileName>
+            
+            
+            
+            <origWidth>4000</origWidth>
+            <origHeight>6000</origHeight>
+            <pageType>Normal</pageType>
+            <addToAccessFormats>true</addToAccessFormats>
+            <cropBox>
+                <x>1899</x>
+                <y>1836</y>
+                <w>1779</w>
+                <h>3028</h>
+            </cropBox>
+            <pageNumber>122</pageNumber>
+        </page>
+        <page leafNum="139">
+            <handSide>RIGHT</handSide>
+            <rotateDegree>90</rotateDegree>
+            <skewActive>true</skewActive>
+            <skewAngle>0.4</skewAngle>
+            <skewAngleDetect>0</skewAngleDetect>
+            <skewScore>0</skewScore>
+            <origFileName>0139.jpg</origFileName>
+            
+            
+            
+            <origWidth>4000</origWidth>
+            <origHeight>6000</origHeight>
+            <pageType>Normal</pageType>
+            <addToAccessFormats>true</addToAccessFormats>
+            <cropBox>
+                <x>330</x>
+                <y>1893</y>
+                <w>1795</w>
+                <h>3060</h>
+            </cropBox>
+            <pageNumber>123</pageNumber>
+        </page>
+        <page leafNum="140">
+            <handSide>LEFT</handSide>
+            <rotateDegree>-90</rotateDegree>
+            <skewActive>true</skewActive>
+            <skewAngle>0.7</skewAngle>
+            <skewAngleDetect>0</skewAngleDetect>
+            <skewScore>0</skewScore>
+            <origFileName>0140.jpg</origFileName>
+            
+            
+            
+            <origWidth>4000</origWidth>
+            <origHeight>6000</origHeight>
+            <pageType>Cover</pageType>
+            <addToAccessFormats>true</addToAccessFormats>
+            <cropBox>
+                <x>1779</x>
+                <y>1852</y>
+                <w>1779</w>
+                <h>3028</h>
+            </cropBox>
+        </page>
+        <page leafNum="141">
+            <handSide>RIGHT</handSide>
+            <rotateDegree>90</rotateDegree>
+            <skewActive>false</skewActive>
+            <skewAngle>0</skewAngle>
+            <skewAngleDetect>0</skewAngleDetect>
+            <skewScore>0</skewScore>
+            <origFileName>0141.jpg</origFileName>
+            
+            
+            
+            <origWidth>4000</origWidth>
+            <origHeight>6000</origHeight>
+            <pageType>Color Card</pageType>
+            <addToAccessFormats>false</addToAccessFormats>
+            <cropBox>
+                <x>100</x>
+                <y>100</y>
+                <w>600</w>
+                <h>600</h>
+            </cropBox>
+        </page>
+    </pageData>
+    <bookData>
+        <bookId>miltonsprosodywi0000brid_b9b8</bookId>
+        <leafCount>142</leafCount>
+        <dpi>300</dpi>
+        <scanDataVersion>4</scanDataVersion>
+        <pageNumData>
+            <assertion>
+                <leafNum>18</leafNum>
+                <pageNum>2</pageNum>
+            </assertion>
+            <assertion>
+                <leafNum>135</leafNum>
+                <pageNum>119</pageNum>
+            </assertion>
+            <pageNumType>normal</pageNumType>
+        </pageNumData>
+    </bookData>
+    <books_note/>
+    <scanLog>
+        <userMetrics>
+            <associate_marycris_avenido_archive_org>
+                <user>associate-marycris-avenido@archive.org</user>
+                <saveCount>3</saveCount>
+                <firstDate>20191011204759</firstDate>
+                <activeTime>724</activeTime>
+                <lastDate>20191011210001</lastDate>
+                <cropUpdateCount>40</cropUpdateCount>
+                <pasteCropForwardCount>49</pasteCropForwardCount>
+                <pasteSkewForwardCount>50</pasteSkewForwardCount>
+                <updateSkewActiveCount>2</updateSkewActiveCount>
+                <skewUpdateCount>62</skewUpdateCount>
+                <checkInCount>1</checkInCount>
+            </associate_marycris_avenido_archive_org>
+        </userMetrics>
+    </scanLog>
+</book>
