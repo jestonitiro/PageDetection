@@ -2,9 +2,9 @@ import xml.etree.ElementTree as ET
 
 
 class ScannedData:
-    # TODO: load the xml and store the dictionary. Key = leaf number and Value = page number
     def __init__(self, scandataxml: str):
         self.leaf_page_dictionary = {}
+        self.leaf_page_dictionary1 = {}
         tree = ET.parse(scandataxml)
         for page_elem in tree.findall('.//pageData/page'):
             leaf_num_value = int(page_elem.attrib["leafNum"])
